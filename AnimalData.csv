@@ -1,0 +1,474 @@
+"Impound.No","Intake.Date","Intake.Type","Animal.Type","Neutered.Status","Sex","Age.Intake","Condition","Breed","Aggressive","Independent","Intelligent","Loyal","Social","Good.with.Kids","Max.Life.Expectancy","Max.Weight","Dog.Group","Color","Weight","Lab.Test","Outcome.Date","Outcome.Type","Days.Shelter"
+"K12-000031","1/1/12","Stray","Dog","Spayed","Female",10,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan & White",3.3,"Heartworm Negative"," 1/7/12","Adoption",6
+"K12-000037","1/1/12","Stray","Dog","Intact","Female",3,"Normal","Rat Terrier Mix","N","N","Y","N","Y","Y",14,25,"Terrier","White & Brown",7.5,"No Lab Test"," 1/3/12","Return to Owner",2
+"K12-000108","1/1/12","Stray","Dog","Intact","Male",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Blue & White",74,"Heartworm Negative"," 1/13/12","Humane Euthanasia",12
+"K12-000125","1/1/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr & Border Collie","N","Y","Y","Y","Y","Y",12,79,"Sporting","White & Black",22,"No Lab Test"," 1/8/12","Adoption",7
+"K12-000157","1/1/12","Stray","Dog","Neutered","Male",3,"Injured or Sick","Labrador Retr ","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",54,"Heartworm Negative"," 4/4/12","Adoption",94
+"K12-000286","1/1/12","Stray","Dog","Neutered","Male",5,"Normal","Yorkshire Terr ","N","N","N","Y","N","Y",15,7,"Terrier","Silver & Tan",4.8,"Heartworm Negative"," 1/10/12","Return to Owner",9
+"K12-000291","1/1/12","Owner Surrender","Dog","Intact","Male",2,"Normal","Weimaraner Mix","N","N","Y","Y","Y","Y",13,80,"Sporting","Fawn & White",47,"Heartworm Positive"," 1/26/12","Humane Euthanasia",25
+"K12-000384","1/8/12","Stray","Dog","Spayed","Female",1,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","White ",10,"Heartworm Negative"," 1/21/12","Transfer",13
+"K12-000416","1/8/12","Public Assist","Dog","Spayed","Female",1,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & White",6,"No Lab Test"," 1/20/12","Return to Owner",12
+"K12-000497","1/8/12","Stray","Dog","Spayed","Female",6,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan & White",9.5,"Heartworm Negative"," 1/22/12","Adoption",14
+"K12-000498","1/8/12","Stray","Dog","Neutered","Male",1,"Normal","Fox Terrier Smooth Mix","N","N","N","N","N","N",15,20,"Terrier","White & Red",16.5,"Heartworm Negative"," 1/19/12","Adoption",11
+"K12-000599","1/8/12","Stray","Dog","Spayed","Female",1,"Normal","Blue Lacy Mix","N","N","Y","N","Y","Y",15,35,"Hound","Tan & White",46,"Heartworm Negative"," 1/20/12","Adoption",12
+"K12-000616","1/8/12","Stray","Dog","Neutered","Male",8,"Normal","Beagle Mix","N","N","Y","N","Y","Y",15,35,"Hound","White & Black",34,"Heartworm Positive"," 1/19/12","Transfer",11
+"K12-000642","1/15/12","Owner Surrender","Cat","Spayed","Female",15,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",9.8,"FeLV Negative, FIV Negative"," 1/24/12","Adoption",9
+"K12-000653","1/15/12","Stray","Cat","Neutered","Male",4,"Normal","Maine Coon Mix","","","","","","",NA,NA,"","Blue ",13,"FeLV Negative, FIV Positive"," 1/26/12","Return to Owner",11
+"K12-000712","1/15/12","Owner Surrender","Dog","Spayed","Female",5,"Normal","Beagle & Basset Hound","N","N","Y","N","Y","Y",15,35,"Hound","Tricolor ",62,"Heartworm Positive"," 1/17/12","Transfer",2
+"K12-000798","1/15/12","Owner Surrender","Cat","Spayed","Female",4,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",9,"FeLV Negative, FIV Negative"," 3/30/12","Transfer",75
+"K12-000804","1/15/12","Stray","Dog","Spayed","Female",3,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",48.25,"Heartworm Negative"," 4/16/12","Adoption",92
+"K12-000893","1/15/12","Owner Surrender","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",10.5,"FeLV Negative, FIV Positive"," 2/12/12","Adoption",28
+"K12-000903","1/15/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",4.5,"FeLV Negative, FIV Positive"," 2/12/12","Adoption",28
+"K12-000957","1/15/12","Owner Surrender","Dog","Neutered","Male",3,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Blue ",55.3,"Heartworm Negative"," 1/31/12","Adoption",16
+"K12-000967","1/22/12","Stray","Dog","Spayed","Female",7,"Normal","Pit Bull & Rottweiler","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",57,"Heartworm Negative"," 1/22/12","Return to Owner",0
+"K12-000975","1/22/12","Stray","Cat","Neutered","Male",2,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",6.3,"FeLV Negative, FIV Negative"," 1/22/12","Return to Owner",0
+"K12-001015","1/22/12","Stray","Dog","Spayed","Female",2,"Normal","Rhod Ridgeback Mix","N","Y","N","Y","N","Y",12,85,"Hound","Red & Black",57,"Heartworm Negative"," 2/9/12","Transfer",18
+"K12-001062","1/22/12","Owner Surrender","Cat","Spayed","Female",9,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",6.75,"FeLV Negative, FIV Negative"," 8/9/12","Humane Euthanasia",200
+"K12-001080","1/22/12","Stray","Dog","Neutered","Male",7,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & White",4.3,"Heartworm Positive"," 2/1/12","Return to Owner",10
+"K12-001092","1/22/12","Stray","Dog","Spayed","Female",3,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","White & Tan",43,"Heartworm Negative"," 1/25/12","Return to Owner",3
+"K12-001109","1/22/12","Stray","Dog","Neutered","Male",5,"Normal","Yorkshire Terr Mix","N","N","N","Y","N","Y",15,7,"Terrier","Silver & Tan",15.3,"Heartworm Negative"," 1/31/12","Adoption",9
+"K12-001213","1/22/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Red & Black",12.3,"No Lab Test"," 2/6/12","Adoption",15
+"K12-001228","1/22/12","Stray","Dog","Neutered","Male",2,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","White & Red",47.5,"Heartworm Positive"," 3/17/12","Transfer",55
+"K12-001282","1/29/12","Stray","Dog","Neutered","Male",7,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan ",3.3,"Heartworm Negative"," 2/3/12","Transfer",5
+"K12-001295","1/29/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Basset Hound & Boston Terrier","N","N","N","Y","Y","Y",12,65,"Hound","Br Brindle & White",15.5,"No Lab Test"," 1/31/12","Adoption",2
+"K12-001302","1/29/12","Stray","Cat","Spayed","Female",4,"Injured or Sick","Domestic Lh Mix","","","","","","",NA,NA,"","Tortie ",10.8,"FeLV Negative, FIV Negative"," 2/20/12","Adoption",22
+"K12-001429","1/29/12","Stray","Dog","Spayed","Female",0,"Normal","Welsh Corgi Car Mix","N","N","Y","Y","Y","Y",15,34,"Herding","Tan & White",9.5,"No Lab Test"," 2/9/12","Adoption",11
+"K12-001449","1/29/12","Stray","Dog","Neutered","Male",0,"Normal","Newfoundland & Labrador Retr","N","N","Y","Y","Y","Y",10,180,"Working","Black ",13,"No Lab Test"," 2/11/12","Adoption",13
+"K12-001451","1/29/12","Stray","Dog","Neutered","Male",4,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tricolor ",15.3,"Heartworm Negative"," 2/7/12","Transfer",9
+"K12-001478","1/29/12","Stray","Dog","Intact","Male",13,"Injured or Sick","Germ Shepherd ","N","N","Y","Y","N","Y",12,88,"Working","Brown & Black",85,"Heartworm Negative"," 2/5/12","Return to Owner",7
+"K12-001671","2/5/12","Owner Surrender","Dog","Spayed","Female",1,"Normal","Great Dane Mix","N","N","Y","Y","Y","Y",10,180,"Working","Black & White",63,"Heartworm Negative"," 2/10/12","Adoption",5
+"K12-001692","2/5/12","Owner Surrender","Dog","Neutered","Male",1,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","White & Tan",9.8,"No Lab Test"," 2/9/12","Return to Owner",4
+"K12-001716","2/5/12","Stray","Dog","Intact","Male",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",53,"No Lab Test"," 2/24/12","Humane Euthanasia",19
+"K12-001761","2/5/12","Owner Surrender","Dog","Spayed","Female",5,"Normal","Pug Mix","N","N","N","N","Y","Y",15,25,"Toy","Brown ",15.8,"Heartworm Negative"," 2/13/12","Adoption",8
+"K12-001766","2/5/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",4.3,"FeLV Negative, FIV Negative"," 2/13/12","Adoption",8
+"K12-001805","2/5/12","Stray","Dog","Spayed","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",13.5,"Heartworm Negative"," 2/17/12","Adoption",12
+"K12-001842","2/5/12","Owner Surrender","Dog","Neutered","Male",6,"Normal","Chihuahua Sh ","N","N","Y","N","N","N",18,6,"Toy","Tan ",11,"Heartworm Negative"," 2/13/12","Adoption",8
+"K12-001851","2/5/12","Owner Surrender","Dog","Spayed","Female",8,"Normal","Greyhound & Great Dane","N","N","Y","Y","Y","Y",10,180,"Working","Black & White",54,"Heartworm Negative"," 2/21/12","Adoption",16
+"K12-001885","2/5/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Dogo Argentino Mix","N","N","N","N","Y","Y",14,120,"Terrier","White ",53.5,"Heartworm Negative"," 3/4/12","Transfer",28
+"K12-001898","2/5/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",7.8,"No Lab Test"," 3/4/12","Adoption",28
+"K12-002078","2/12/12","Stray","Dog","Intact","Male",1,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan & White",7.8,"Heartworm Negative"," 2/17/12","Return to Owner",5
+"K12-002109","2/12/12","Stray","Dog","Neutered","Male",8,"Normal","Labrador Retr & Greyhound","N","Y","Y","Y","Y","Y",12,79,"Sporting","White ",56,"Heartworm Negative"," 2/16/12","Return to Owner",4
+"K12-002148","2/12/12","Owner Surrender","Dog","Neutered","Male",3,"Normal","Tibetan Terr Mix","N","Y","N","Y","N","Y",15,24,"Non-Sporting","Gray & Black",36.3,"Heartworm Negative"," 2/20/12","Transfer",8
+"K12-002176","2/12/12","Stray","Cat","Neutered","Male",3,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Blue ",9,"FeLV Negative, FIV Negative"," 3/13/12","Adoption",30
+"K12-002177","2/12/12","Stray","Dog","Neutered","Male",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",36,"Heartworm Negative"," 2/27/12","Transfer",15
+"K12-002274","2/19/12","Owner Surrender","Dog","Spayed","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",13.5,"Heartworm Negative"," 2/22/12","Transfer",3
+"K12-002284","2/19/12","Stray","Dog","Spayed","Female",1,"Normal","Bluetick Hound Mix","N","N","Y","Y","Y","Y",12,80,"Hound","Blue Tick & Black",53,"Heartworm Negative"," 2/20/12","Return to Owner",1
+"K12-002352","2/19/12","Stray","Cat","Neutered","Male",4,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",13.5,"No Lab Test"," 2/24/12","Humane Euthanasia",5
+"K12-002373","2/19/12","Owner Surrender","Dog","Spayed","Female",3,"Normal","Chinese Sharpei ","N","Y","N","Y","N","Y",10,65,"Non-Sporting","Buff ",30,"Heartworm Negative"," 2/25/12","Transfer",6
+"K12-002400","2/19/12","Stray","Dog","Neutered","Male",2,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Buff ",10.5,"Heartworm Negative"," 2/23/12","Return to Owner",4
+"K12-002486","2/19/12","Stray","Dog","Neutered","Male",1,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Black & Brown",31,"Heartworm Negative"," 3/3/12","Adoption",13
+"K12-002514","2/19/12","Stray","Cat","Neutered","Male",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",10,"FeLV Negative, FIV Negative"," 3/6/12","Adoption",16
+"K12-002536","2/19/12","Stray","Dog","Spayed","Female",7,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",19.3,"No Lab Test"," 5/1/12","Adoption",72
+"K12-002558","2/19/12","Stray","Dog","Neutered","Male",1,"Normal","Norwich Terrier & Cairn Terrier","N","N","N","Y","Y","Y",16,12,"Terrier","Tan & White",15.5,"Heartworm Negative"," 3/4/12","Return to Owner",14
+"K12-002641","2/26/12","Public Assist","Dog","Neutered","Male",2,"Normal","Germ Shepherd & Labrador Retr","N","N","Y","Y","N","Y",12,88,"Working","Brown & Black",56,"Heartworm Negative"," 3/24/12","Adoption",27
+"K12-002647","2/26/12","Stray","Dog","Intact","Male",3,"Normal","Germ Shepherd & Rottweiler","N","N","Y","Y","N","Y",12,88,"Working","Brown & Tan",58.8,"Heartworm Positive"," 2/27/12","Return to Owner",1
+"K12-002669","2/26/12","Stray","Dog","Spayed","Female",0,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",10.8,"No Lab Test"," 3/15/12","Transfer",18
+"K12-002676","2/26/12","Owner Surrender","Dog","Spayed","Female",3,"Normal","Poodle Toy Mix","N","N","Y","Y","N","Y",14,9,"Toy","Black & White",6.5,"Heartworm Negative"," 2/27/12","Transfer",1
+"K12-002781","2/26/12","Stray","Dog","Neutered","Male",13,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Sable ",7.3,"No Lab Test"," 3/5/12","Transfer",8
+"K12-002875","2/26/12","Stray","Cat","Neutered","Male",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",8,"FeLV Negative, FIV Negative"," 3/5/12","Transfer",8
+"K12-002891","2/26/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Great Pyrenees ","N","N","Y","N","N","Y",12,120,"Herding","White & Tan",23.5,"No Lab Test"," 3/3/12","Adoption",6
+"K12-002954","3/4/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Min Pinscher Mix","N","Y","N","Y","N","Y",14,10,"Toy","Black & Tan",13.8,"Heartworm Negative"," 3/4/12","Transfer",0
+"K12-003001","3/4/12","Stray","Cat","Neutered","Male",2,"Normal","Siamese Mix","","","","","","",NA,NA,"","Choc Pt ",9.3,"FeLV Negative, FIV Negative"," 3/24/12","Transfer",20
+"K12-003007","3/4/12","Stray","Dog","Spayed","Female",6,"Normal","Beagle Mix","N","N","Y","N","Y","Y",15,35,"Hound","Tan & White",33,"Heartworm Negative"," 3/12/12","Adoption",8
+"K12-003017","3/4/12","Public Assist","Cat","Spayed","Female",1,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Black ",5.8,"No Lab Test"," 3/16/12","Transfer",12
+"K12-003034","3/4/12","Stray","Dog","Spayed","Female",0,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",64,"Heartworm Negative"," 3/25/12","Transfer",21
+"K12-003117","3/4/12","Stray","Cat","Neutered","Male",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",11,"FeLV Positive, FIV Negative"," 3/15/12","Transfer",11
+"K12-003143","3/4/12","Stray","Dog","Spayed","Female",13,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Sable ",66,"No Lab Test"," 3/31/12","Adoption",27
+"K12-003157","3/4/12","Stray","Dog","Spayed","Female",8,"Normal","Border Collie Mix","N","N","Y","N","Y","Y",13,45,"Herding","Tricolor ",47,"Heartworm Positive"," 4/15/12","Adoption",42
+"K12-003178","3/4/12","Stray","Dog","Intact","Female",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Tan & White",35,"No Lab Test"," 3/14/12","Humane Euthanasia",10
+"K12-003186","3/4/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",1.5,"FeLV Negative, FIV Negative"," 3/30/12","Transfer",26
+"K12-003559","3/11/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.8,"No Lab Test"," 3/15/12","Transfer",4
+"K12-003567","3/11/12","Public Assist","Dog","Neutered","Male",1,"Normal","Chihuahua Sh & Aust Cattle Dog","N","N","Y","N","N","N",18,6,"Toy","Tricolor ",28,"Heartworm Negative"," 3/27/12","Return to Owner",16
+"K12-003593","3/11/12","Stray","Dog","Neutered","Male",4,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & White",11,"Heartworm Negative"," 3/25/12","Adoption",14
+"K12-003619","3/11/12","Stray","Cat","Neutered","Male",2,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Black ",5.8,"FeLV Negative, FIV Negative"," 3/22/12","Transfer",11
+"K12-003644","3/11/12","Owner Surrender","Cat","Neutered","Male",9,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",8.8,"FeLV Negative, FIV Negative"," 3/28/12","Adoption",17
+"K12-003810","3/18/12","Owner Surrender","Cat","Spayed","Female",9,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",8.5,"FeLV Negative, FIV Negative"," 5/18/12","Adoption",61
+"K12-003841","3/18/12","Stray","Cat","Neutered","Male",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",7,"No Lab Test"," 3/24/12","Transfer",6
+"K12-003922","3/18/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Labrador Retr & Catahoula","N","Y","Y","Y","Y","Y",12,79,"Sporting","Red ",23.8,"No Lab Test"," 3/24/12","Adoption",6
+"K12-003936","3/18/12","Stray","Dog","Neutered","Male",0,"Normal","Border Collie Mix","N","N","Y","N","Y","Y",13,45,"Herding","Black & White",9.8,"No Lab Test"," 3/26/12","Adoption",8
+"K12-004064","3/18/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Chocolate ",62.3,"Heartworm Negative"," 3/25/12","Transfer",7
+"K12-004081","3/18/12","Stray","Dog","Neutered","Male",3,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Tan",58,"Heartworm Negative"," 5/23/12","Adoption",66
+"K12-004085","3/25/12","Stray","Dog","Spayed","Female",0,"Injured or Sick","Amer Bulldog Mix","N","N","N","Y","N","Y",12,55,"Non-Sporting","White & Bl Brindle",21.5,"No Lab Test"," 5/30/12","Adoption",66
+"K12-004099","3/25/12","Stray","Dog","Neutered","Male",3,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Brown & Tan",71.5,"Heartworm Negative"," 5/17/12","Adoption",53
+"K12-004139","3/25/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr & Am Pit Bull Ter","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",16,"No Lab Test"," 4/3/12","Adoption",9
+"K12-004141","3/25/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Queensland Heel Mix","Y","N","Y","Y","N","Y",16,35,"Herding","BLUE MERLE",40,"Heartworm Positive"," 4/1/12","Transfer",7
+"K12-004168","3/25/12","Stray","Cat","Spayed","Female",2,"Injured or Sick","Balinese Mix","","","","","","",NA,NA,"","Blue Pt ",7,"FeLV Negative, FIV Negative"," 4/30/12","Adoption",36
+"K12-004288","3/25/12","Stray","Dog","Spayed","Female",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Black & White",55,"Heartworm Negative"," 6/4/12","Transfer",71
+"K12-004333","3/25/12","Owner Surrender","Dog","Spayed","Female",2,"Normal","Dogo Argentino Mix","N","N","N","N","Y","Y",14,120,"Terrier","White ",44,"Heartworm Negative"," 4/11/12","Adoption",17
+"K12-004488","4/1/12","Stray","Cat","Neutered","Male",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",9.5,"FeLV Negative, FIV Positive"," 4/7/12","Return to Owner",6
+"K12-004511","4/1/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Red & White",73,"Heartworm Negative"," 4/4/12","Return to Owner",3
+"K12-004641","4/1/12","Owner Surrender","Dog","Neutered","Male",2,"Normal","Cairn Terrier & Dachshund Wh","N","N","Y","Y","N","Y",15,18,"Terrier","Black & Tan",13.5,"Heartworm Negative"," 4/15/12","Adoption",14
+"K12-004652","4/1/12","Stray","Dog","Spayed","Female",0,"Normal","Boxer Mix","N","N","Y","Y","Y","Y",12,72,"Working","Brown & Black",11,"No Lab Test"," 4/11/12","Adoption",10
+"K12-004663","4/1/12","Stray","Dog","Spayed","Female",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Brown",36.5,"Heartworm Negative"," 4/14/12","Adoption",13
+"K12-004666","4/1/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Org Tabby ",2,"FeLV Negative, FIV Negative"," 4/10/12","Adoption",9
+"K12-004715","4/1/12","Owner Surrender","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",8.3,"FeLV Negative, FIV Negative"," 4/24/12","Transfer",23
+"K12-004788","4/1/12","Public Assist","Dog","Neutered","Male",3,"Normal","Aust Cattle Dog Mix","Y","N","Y","Y","N","Y",16,35,"Herding","Brown & White",70,"No Lab Test"," 4/17/12","Return to Owner",16
+"K12-004906","4/8/12","Owner Surrender","Dog","Spayed","Female",10,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Cream ",5.5,"Heartworm Negative"," 4/13/12","Adoption",5
+"K12-004937","4/8/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",2.5,"FeLV Negative, FIV Negative"," 6/20/12","Adoption",73
+"K12-004938","4/8/12","Stray","Dog","Spayed","Female",2,"Normal","Staffordshire & Boston Terrier","N","N","Y","Y","Y","Y",16,88,"Terrier","Bl Brindle ",43,"Heartworm Negative"," 4/26/12","Transfer",18
+"K12-005019","4/8/12","Stray","Dog","Spayed","Female",3,"Normal","Plott Hound Mix","N","N","N","N","Y","N",14,27,"Hound","Br Brindle & White",57.25,"Heartworm Negative"," 7/4/12","Adoption",87
+"K12-005100","4/8/12","Stray","Dog","Spayed","Female",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & Brown",4.5,"No Lab Test"," 4/16/12","Adoption",8
+"K12-005122","4/8/12","Stray","Dog","Spayed","Female",0,"Normal","Germ Shepherd ","N","N","Y","Y","N","Y",12,88,"Working","Black & Tan",33.5,"No Lab Test"," 4/15/12","Adoption",7
+"K12-005125","4/8/12","Stray","Dog","Spayed","Female",4,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",10,"Heartworm Negative"," 4/17/12","Adoption",9
+"K12-005126","4/8/12","Stray","Dog","Neutered","Male",1,"Normal","Pointer Mix","N","N","N","Y","N","Y",15,75,"Sporting","Black & White",43,"Heartworm Negative"," 4/15/12","Return to Owner",7
+"K12-005261","4/8/12","Stray","Dog","Neutered","Male",2,"Normal","Great Pyrenees Mix","N","N","Y","N","N","Y",12,120,"Herding","White ",66,"Heartworm Negative"," 4/14/12","Return to Owner",6
+"K12-005302","4/8/12","Owner Surrender","Cat","Spayed","Female",4,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",8.5,"FeLV Negative, FIV Negative"," 5/10/12","Transfer",32
+"K12-005317","4/8/12","Stray","Cat","Spayed","Female",5,"Normal","Domestic Lh Mix","","","","","","",NA,NA,"","Blk Smoke ",10,"FeLV Negative, FIV Negative"," 4/22/12","Adoption",14
+"K12-005394","4/8/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Lh Mix","","","","","","",NA,NA,"","Blk Smoke ",0.8,"FeLV Negative, FIV Negative"," 4/14/12","Transfer",6
+"K12-005406","4/15/12","Stray","Dog","Spayed","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","White & Black",6.5,"Heartworm Positive"," 4/27/12","Transfer",12
+"K12-005513","4/15/12","Stray","Dog","Neutered","Male",6,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Red & White",8.8,"Heartworm Negative"," 4/22/12","Adoption",7
+"K12-005691","4/15/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blk Tabby ",0.8,"FeLV Negative, FIV Negative"," 4/19/12","Transfer",4
+"K12-005709","4/15/12","Owner Surrender","Dog","Spayed","Female",13,"Normal","Aust Cattle Dog ","Y","N","Y","Y","N","Y",16,35,"Herding","Blue Merle ",56,"Heartworm Negative"," 4/20/12","Humane Euthanasia",5
+"K12-005797","4/15/12","Public Assist","Dog","Spayed","Female",5,"Normal","Schnauzer Min Mix","N","N","N","N","N","Y",15,20,"Terrier","Black & Tan",18.25,"Heartworm Negative"," 7/7/12","Adoption",83
+"K12-005800","4/15/12","Public Assist","Dog","Spayed","Female",4,"Normal","Chihuahua Lh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & Cream",7.8,"Heartworm Negative"," 5/11/12","Transfer",26
+"K12-005829","4/15/12","Stray","Cat","Spayed","Female",2,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","White & Blue",7.5,"No Lab Test"," 5/7/12","Transfer",22
+"K12-005847","4/15/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",0.3,"FeLV Negative, FIV Negative"," 6/3/12","Adoption",49
+"K12-005865","4/15/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr & Airedale Terr","N","Y","Y","Y","Y","Y",12,79,"Sporting","Yellow ",16,"No Lab Test"," 5/1/12","Adoption",16
+"K12-005882","4/15/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",0.8,"No Lab Test"," 4/21/12","Transfer",6
+"K12-005905","4/15/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",1,"FeLV Negative, FIV Negative"," 5/31/12","Adoption",46
+"K12-005944","4/22/12","Stray","Dog","Neutered","Male",3,"Normal","Rat Terrier Mix","N","N","Y","N","Y","Y",14,25,"Terrier","Tricolor ",13.5,"Heartworm Negative"," 4/26/12","Adoption",4
+"K12-005966","4/22/12","Stray","Cat","Spayed","Female",2,"Injured or Sick","Domestic Mh Mix","","","","","","",NA,NA,"","Tortie ",7.75,"FeLV Negative, FIV Negative"," 7/28/12","Adoption",97
+"K12-006015","4/22/12","Stray","Cat","Spayed","Female",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",7.3,"FeLV Negative, FIV Negative"," 7/24/12","Transfer",93
+"K12-006024","4/22/12","Owner Surrender","Cat","Spayed","Female",12,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",8.5,"FeLV Negative, FIV Negative"," 7/5/12","Transfer",74
+"K12-006051","4/22/12","Owner Surrender","Cat","Neutered","Male",0,"Injured or Sick","Domestic Mh Mix","","","","","","",NA,NA,"","Blue Tabby & White",2.8,"No Lab Test"," 4/24/12","Adoption",2
+"K12-006095","4/22/12","Stray","Dog","Neutered","Male",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Brown",45,"Heartworm Negative"," 5/4/12","Adoption",12
+"K12-006120","4/22/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",2.5,"FeLV Negative, FIV Negative"," 4/25/12","Adoption",3
+"K12-006207","4/22/12","Stray","Dog","Neutered","Male",1,"Normal","Shih Tzu & Chihuahua Lh","N","N","N","N","N","Y",16,16,"Non-Sporting","Black ",16,"Heartworm Negative"," 4/30/12","Return to Owner",8
+"K12-006221","4/22/12","Stray","Dog","Spayed","Female",5,"Normal","Catahoula Mix","N","Y","N","N","N","Y",13,80,"Herding","Br Brindle & White",60,"Heartworm Positive"," 5/30/12","Transfer",38
+"K12-006316","4/22/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",3,"FeLV Negative, FIV Negative"," 6/30/12","Adoption",69
+"K12-006359","4/22/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Siamese Mix","","","","","","",NA,NA,"","Lynx Pt ",0.8,"FeLV Negative, FIV Negative"," 4/28/12","Transfer",6
+"K12-006419","4/22/12","Stray","Dog","Spayed","Female",2,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black ",60,"Heartworm Negative"," 4/29/12","Return to Owner",7
+"K12-006487","4/29/12","Stray","Dog","Spayed","Female",0,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",12,"No Lab Test"," 5/6/12","Adoption",7
+"K12-006543","4/29/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",0.3,"FeLV Negative, FIV Negative"," 6/30/12","Adoption",62
+"K12-006740","4/29/12","Stray","Cat","Spayed","Female",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Brn Tabby",9,"No Lab Test"," 6/11/12","Transfer",43
+"K12-006743","4/29/12","Stray","Dog","Neutered","Male",10,"Normal","West Highland ","N","Y","N","N","N","Y",14,20,"Terrier","White ",27,"Heartworm Negative"," 5/3/12","Return to Owner",4
+"K12-006758","4/29/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",0.8,"FeLV Negative, FIV Negative"," 5/8/12","Transfer",9
+"K12-006799","4/29/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Pug & Beagle","N","N","Y","Y","Y","Y",15,30,"Crossbreed","Brown & Black",13.8,"Heartworm Negative"," 5/5/12","Adoption",6
+"K12-006829","4/29/12","Owner Surrender","Cat","Spayed","Female",11,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie ",10.3,"FeLV Negative, FIV Negative"," 5/12/12","Return to Owner",13
+"K12-006835","4/29/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",4.75,"FeLV Negative, FIV Negative"," 9/28/12","Adoption",152
+"K12-006891","4/29/12","Owner Surrender","Dog","Neutered","Male",4,"Normal","Cocker Spaniel","N","N","N","Y","Y","Y",15,33,"Sporting","Black & Tan",19,"Heartworm Negative"," 5/7/12","Adoption",8
+"K12-006924","4/29/12","Owner Surrender","Dog","Spayed","Female",5,"Normal","Schnauzer Min Mix","N","N","N","N","N","Y",15,20,"Terrier","Black & Tan",30,"Heartworm Negative"," 5/9/12","Transfer",10
+"K12-006925","4/29/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Schnauzer Min & Chow Chow","N","N","N","N","N","Y",15,20,"Terrier","Black ",20,"No Lab Test"," 5/9/12","Transfer",10
+"K12-007017","5/6/12","Stray","Dog","Neutered","Male",2,"Normal","Germ Shepherd & Rottweiler","N","N","Y","Y","N","Y",12,88,"Working","Black & Tan",70,"Heartworm Negative"," 5/14/12","Adoption",8
+"K12-007045","5/6/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Amer Bulldog Mix","N","N","N","Y","N","Y",12,55,"Non-Sporting","Br Brindle & White",63,"Heartworm Negative"," 5/28/12","Adoption",22
+"K12-007190","5/6/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",0.5,"FeLV Negative, FIV Negative"," 5/9/12","Transfer",3
+"K12-007255","5/6/12","Public Assist","Dog","Intact","Female",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Brown & White",42,"Heartworm Negative"," 5/10/12","Return to Owner",4
+"K12-007406","5/6/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","White ",0.8,"FeLV Negative, FIV Negative"," 5/15/12","Transfer",9
+"K12-007459","5/6/12","Public Assist","Dog","Neutered","Male",6,"Normal","Dogue De Bordx ","N","N","N","Y","Y","Y",8,110,"Working","Red ",131,"Heartworm Negative"," 5/13/12","Return to Owner",7
+"K12-007462","5/6/12","Public Assist","Dog","Neutered","Male",2,"Normal","Jack Russ Terr Mix","N","N","Y","Y","N","Y",16,18,"Sporting","White & Red",22,"Heartworm Negative"," 5/13/12","Return to Owner",7
+"K12-007487","5/6/12","Stray","Cat","Spayed","Female",0,"Normal","Korat Mix","","","","","","",NA,NA,"","Blue ",3.5,"FeLV Negative, FIV Negative"," 5/16/12","Adoption",10
+"K12-007559","5/13/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",27.5,"No Lab Test"," 5/20/12","Adoption",7
+"K12-007623","5/13/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",1,"FeLV Negative, FIV Negative"," 6/6/12","Died",24
+"K12-007736","5/13/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",2.3,"FeLV Negative, FIV Negative"," 6/30/12","Adoption",48
+"K12-007824","5/13/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",3.3,"FeLV Negative, FIV Negative"," 5/21/12","Adoption",8
+"K12-007827","5/13/12","Owner Surrender","Cat","Spayed","Female",2,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Crm Tabby ",8.5,"FeLV Negative, FIV Negative"," 9/20/12","Adoption",130
+"K12-008117","5/20/12","Stray","Dog","Spayed","Female",2,"Normal","Jack Russ Terr & Chinese Crested","N","N","Y","Y","N","Y",16,18,"Sporting","White & Black",11.8,"Heartworm Negative"," 5/26/12","Transfer",6
+"K12-008279","5/20/12","Stray","Dog","Neutered","Male",2,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & White",10,"Heartworm Negative"," 6/6/12","Transfer",17
+"K12-008316","5/20/12","Owner Surrender","Dog","Neutered","Male",2,"Normal","Min Pinscher Mix","N","Y","N","Y","N","Y",14,10,"Toy","Black & Brown",18.5,"Heartworm Negative"," 5/27/12","Adoption",7
+"K12-008358","5/20/12","Stray","Cat","Neutered","Male",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","Seal Pt ",1,"FeLV Negative, FIV Negative"," 7/14/12","Adoption",55
+"K12-008370","5/20/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Seal Pt ",2,"FeLV Negative, FIV Negative"," 5/25/12","Transfer",5
+"K12-008406","5/20/12","Stray","Dog","Spayed","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan & White",6,"Heartworm Negative"," 5/28/12","Adoption",8
+"K12-008445","5/20/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",2.75,"FeLV Negative, FIV Negative"," 7/12/12","Adoption",53
+"K12-008494","5/20/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Great Pyrenees & Basset Hound","N","N","Y","N","N","Y",12,120,"Herding","White & Red",23,"No Lab Test"," 5/25/12","Transfer",5
+"K12-008512","5/20/12","Stray","Dog","Spayed","Female",5,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Black & White",35.99,"Heartworm Positive"," 8/1/12","Transfer",73
+"K12-008514","5/20/12","Stray","Cat","Spayed","Female",0,"Normal","Manx Mix","","","","","","",NA,NA,"","Tortie ",1.8,"FeLV Negative, FIV Negative"," 5/29/12","Adoption",9
+"K12-008589","5/20/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",2.3,"FeLV Negative, FIV Negative"," 6/7/12","Transfer",18
+"K12-008710","5/27/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Korat Mix","","","","","","",NA,NA,"","Blue ",3.5,"FeLV Negative, FIV Negative"," 5/31/12","Adoption",4
+"K12-008856","5/27/12","Stray","Cat","Intact","Female",0,"Injured or Sick","Siamese Mix","","","","","","",NA,NA,"","Seal Pt & White",3.5,"No Lab Test"," 6/2/12","Humane Euthanasia",6
+"K12-008910","5/27/12","Stray","Dog","Spayed","Female",3,"Normal","Siberian Husky Mix","N","Y","Y","N","Y","N",13,60,"Working","Red & White",55,"Heartworm Negative"," 5/30/12","Return to Owner",3
+"K12-008919","5/27/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie ",1.5,"FeLV Negative, FIV Negative"," 6/6/12","Humane Euthanasia",10
+"K12-008933","5/27/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Cymric Mix","","","","","","",NA,NA,"","Brn Tabby ",2,"FeLV Negative, FIV Negative"," 6/3/12","Adoption",7
+"K12-008968","5/27/12","Stray","Dog","Neutered","Male",1,"Normal","Amer Bulldog ","N","N","N","Y","N","Y",12,55,"Non-Sporting","White & Blue",68,"Heartworm Negative"," 6/1/12","Return to Owner",5
+"K12-008970","5/27/12","Stray","Dog","Neutered","Male",0,"Normal","Schnauzer Min Mix","N","N","N","N","N","Y",15,20,"Terrier","Gray & White",7.8,"No Lab Test"," 6/7/12","Adoption",11
+"K12-009155","5/27/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie ",0.8,"No Lab Test"," 6/1/12","Transfer",5
+"K12-009163","5/27/12","Owner Surrender","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","White & Org Tabby",1.5,"FeLV Negative, FIV Negative"," 6/30/12","Adoption",34
+"K12-009243","5/27/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",2.3,"FeLV Negative, FIV Negative"," 6/7/12","Transfer",11
+"K12-009333","6/3/12","Public Assist","Cat","Spayed","Female",4,"Normal","Siamese Mix","","","","","","",NA,NA,"","Tortie Pt ",8.8,"FeLV Negative, FIV Negative"," 6/12/12","Return to Owner",9
+"K12-009345","6/3/12","Stray","Dog","Spayed","Female",0,"Injured or Sick","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Blue & White",2.8,"No Lab Test"," 6/4/12","Transfer",1
+"K12-009515","6/3/12","Owner Surrender","Dog","Neutered","Male",1,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",4,"No Lab Test"," 6/7/12","Transfer",4
+"K12-009549","6/3/12","Stray","Cat","Intact","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",1,"FeLV Negative, FIV Negative"," 6/8/12","Transfer",5
+"K12-009596","6/3/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.25,"FeLV Negative, FIV Negative"," 7/14/12","Transfer",41
+"K12-009618","6/3/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",1.5,"FeLV Negative, FIV Negative"," 6/9/12","Transfer",6
+"K12-009648","6/3/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",2.25,"FeLV Negative, FIV Negative"," 8/9/12","Adoption",67
+"K12-009700","6/3/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",2.25,"FeLV Negative, FIV Negative"," 7/23/12","Adoption",50
+"K12-009787","6/10/12","Stray","Cat","Spayed","Female",0,"Normal","Snowshoe Mix","","","","","","",NA,NA,"","Seal Pt & White",1.3,"No Lab Test"," 7/31/12","Adoption",51
+"K12-009867","6/10/12","Owner Surrender","Dog","Neutered","Male",6,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & White",5.8,"Heartworm Negative"," 6/13/12","Humane Euthanasia",3
+"K12-009908","6/10/12","Stray","Cat","Spayed","Female",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Crm Tabby & White",4.75,"FeLV Negative, FIV Negative"," 7/8/12","Transfer",28
+"K12-009950","6/10/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Min Pinscher Mix","N","Y","N","Y","N","Y",14,10,"Toy","Black & Tan",11.8,"Heartworm Negative"," 6/24/12","Humane Euthanasia",14
+"K12-010001","6/10/12","Stray","Dog","Spayed","Female",8,"Normal","Weimaraner Mix","N","N","Y","Y","Y","Y",13,80,"Sporting","Red & White",40,"Heartworm Negative"," 6/15/12","Return to Owner",5
+"K12-010129","6/10/12","Owner Surrender","Dog","Neutered","Male",2,"Injured or Sick","Aust Cattle Dog Mix","Y","N","Y","Y","N","Y",16,35,"Herding","Sable ",30,"No Lab Test"," 6/16/12","Transfer",6
+"K12-010149","6/10/12","Stray","Dog","Spayed","Female",4,"Normal","Min Pinscher & Chihuahua Sh","N","Y","N","Y","N","Y",14,10,"Toy","Black & Tan",10.75,"Heartworm Negative"," 6/27/12","Adoption",17
+"K12-010166","6/10/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.5,"FeLV Negative, FIV Negative"," 8/8/12","Adoption",59
+"K12-010195","6/17/12","Stray","Dog","Neutered","Male",2,"Normal","Staffordshire Mix","N","N","Y","Y","Y","Y",16,88,"Terrier","Blue ",42,"Heartworm Negative"," 7/13/12","Adoption",26
+"K12-010197","6/17/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",3.5,"FeLV Negative, FIV Negative"," 1/4/13","Adoption",201
+"K12-010276","6/17/12","Owner Surrender","Dog","Neutered","Male",0,"Injured or Sick","Maltese & Poodle Min","N","N","N","N","Y","Y",14,7,"Toy","Black & White",7.25,"No Lab Test"," 6/29/12","Adoption",12
+"K12-010358","6/17/12","Owner Surrender","Cat","Neutered","Male",7,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Org Tabby & White",9.75,"FeLV Negative, FIV Positive"," 6/30/12","Humane Euthanasia",13
+"K12-010457","6/17/12","Stray","Dog","Spayed","Female",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black ",53,"Heartworm Negative"," 7/5/12","Adoption",18
+"K12-010475","6/17/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.5,"FeLV Negative, FIV Negative"," 6/24/12","Transfer",7
+"K12-010510","6/17/12","Stray","Dog","Spayed","Female",2,"Normal","Great Pyrenees Mix","N","N","Y","N","N","Y",12,120,"Herding","White ",80.5,"Heartworm Negative"," 6/24/12","Return to Owner",7
+"K12-010554","6/17/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",3,"FeLV Negative, FIV Negative"," 6/26/12","Adoption",9
+"K12-010602","6/17/12","Stray","Dog","Spayed","Female",3,"Normal","Pomeranian Mix","N","N","N","N","Y","Y",16,8,"Toy","Brown & White",12.5,"Heartworm Negative"," 6/27/12","Adoption",10
+"K12-010733","6/24/12","Stray","Dog","Spayed","Female",0,"Normal","Pointer Mix","N","N","N","Y","N","Y",15,75,"Sporting","Black & White",10.25,"No Lab Test"," 7/1/12","Adoption",7
+"K12-010739","6/24/12","Stray","Dog","Spayed","Female",9,"Injured or Sick","Rat Terrier Mix","N","N","Y","N","Y","Y",14,25,"Terrier","White & Tricolor",7.75,"Heartworm Negative"," 7/31/12","Transfer",37
+"K12-010787","6/24/12","Owner Surrender","Dog","Neutered","Male",7,"Injured or Sick","Great Dane ","N","N","Y","Y","Y","Y",10,180,"Working","Black & White",97,"Heartworm Positive"," 7/11/12","Transfer",17
+"K12-010830","6/24/12","Stray","Dog","Spayed","Female",2,"Injured or Sick","Staffordshire Mix","N","N","Y","Y","Y","Y",16,88,"Terrier","Tan ",38,"Heartworm Negative"," 6/30/12","Transfer",6
+"K12-010891","6/24/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",1.75,"FeLV Negative, FIV Negative"," 7/8/12","Transfer",14
+"K12-010912","6/24/12","Stray","Cat","Neutered","Male",5,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Black",9.75,"FeLV Negative, FIV Positive"," 11/11/12","Transfer",140
+"K12-011011","6/24/12","Stray","Dog","Neutered","Male",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Brown",77.5,"Heartworm Negative"," 7/1/12","Return to Owner",7
+"K12-011034","6/24/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",2.25,"FeLV Negative, FIV Negative"," 7/3/12","Adoption",9
+"K12-011112","6/24/12","Owner Surrender","Cat","Intact","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.25,"FeLV Negative, FIV Negative"," 6/30/12","Transfer",6
+"K12-011207","7/1/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie ",0.5,"No Lab Test"," 7/2/12","Transfer",1
+"K12-011262","7/1/12","Stray","Dog","Neutered","Male",1,"Normal","Jack Russ Terr & Dachshund","N","N","Y","Y","N","Y",16,18,"Sporting","Black & White",20.75,"Heartworm Negative"," 7/9/12","Adoption",8
+"K12-011284","7/1/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Black ",2.75,"FeLV Negative, FIV Negative"," 8/7/12","Transfer",37
+"K12-011380","7/1/12","Stray","Dog","Neutered","Male",1,"Normal","Scot Terrier Mix","N","Y","Y","Y","N","Y",13,22,"Terrier","Black ",8.25,"Heartworm Negative"," 7/10/12","Adoption",9
+"K12-011441","7/1/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",3,"FeLV Negative, FIV Negative"," 7/9/12","Adoption",8
+"K12-011443","7/1/12","Stray","Dog","Neutered","Male",7,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Gray ",45,"Heartworm Positive"," 7/6/12","Return to Owner",5
+"K12-011527","7/1/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",3.75,"FeLV Negative, FIV Negative"," 7/23/12","Adoption",22
+"K12-011537","7/1/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle ",14,"No Lab Test"," 7/8/12","Adoption",7
+"K12-011551","7/1/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",1.25,"FeLV Negative, FIV Negative"," 7/6/12","Transfer",5
+"K12-011584","7/1/12","Stray","Dog","Spayed","Female",0,"Normal","Pointer Mix","N","N","N","Y","N","Y",15,75,"Sporting","Black & White",17.25,"No Lab Test"," 7/15/12","Transfer",14
+"K12-011616","7/1/12","Owner Surrender","Dog","Intact","Male",3,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Brown ",70,"No Lab Test"," 7/9/12","Humane Euthanasia",8
+"K12-011646","7/1/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",2,"FeLV Negative, FIV Negative"," 8/20/12","Adoption",50
+"K12-011712","7/8/12","Owner Surrender","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie & White",6.5,"FeLV Negative, FIV Negative"," 7/14/12","Transfer",6
+"K12-011789","7/8/12","Stray","Dog","Neutered","Male",0,"Normal","Min Pinscher Mix","N","Y","N","Y","N","Y",14,10,"Toy","Black & Brown",8,"No Lab Test"," 7/15/12","Adoption",7
+"K12-011796","7/8/12","Stray","Dog","Spayed","Female",0,"Normal","Catahoula Mix","N","Y","N","N","N","Y",13,80,"Herding","Brown & White",26.25,"No Lab Test"," 8/18/12","Adoption",41
+"K12-011803","7/8/12","Stray","Dog","Spayed","Female",2,"Normal","Saluki Mix","N","N","N","N","N","N",16,66,"Hound","Tan & White",45,"Heartworm Negative"," 7/26/12","Adoption",18
+"K12-011840","7/8/12","Stray","Dog","Intact","Male",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",10.75,"Heartworm Negative"," 7/14/12","Transfer",6
+"K12-011865","7/8/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",0.75,"FeLV Negative, FIV Negative"," 7/10/12","Transfer",2
+"K12-011913","7/8/12","Stray","Dog","Spayed","Female",1,"Normal","Boston Terrier Mix","N","N","Y","N","Y","Y",15,25,"Non-Sporting","Black & White",17,"Heartworm Negative"," 7/15/12","Transfer",7
+"K12-011946","7/8/12","Stray","Dog","Neutered","Male",4,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Red & White",72.25,"Heartworm Positive"," 8/24/12","Humane Euthanasia",47
+"K12-011947","7/8/12","Stray","Dog","Neutered","Male",0,"Normal","Bluetick Hound Mix","N","N","Y","Y","Y","Y",12,80,"Hound","Blue Tick ",4.5,"No Lab Test"," 7/13/12","Transfer",5
+"K12-012085","7/8/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",2.25,"FeLV Negative, FIV Negative"," 7/18/12","Adoption",10
+"K12-012196","7/8/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",3.75,"FeLV Negative, FIV Negative"," 7/19/12","Transfer",11
+"K12-012342","7/15/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.5,"FeLV Negative, FIV Negative"," 9/4/12","Adoption",51
+"K12-012424","7/15/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Gray Tabby & White",0.5,"No Lab Test"," 7/17/12","Transfer",2
+"K12-012536","7/15/12","Stray","Dog","Spayed","Female",3,"Normal","Catahoula Mix","N","Y","N","N","N","Y",13,80,"Herding","Tan & White",39,"No Lab Test"," 7/19/12","Return to Owner",4
+"K12-012562","7/15/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2,"FeLV Negative, FIV Negative"," 8/1/12","Adoption",17
+"K12-012668","7/15/12","Stray","Dog","Intact","Female",0,"Normal","Chihuahua Lh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & Tan",4.25,"No Lab Test"," 7/23/12","Return to Owner",8
+"K12-012681","7/15/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",1,"No Lab Test"," 7/25/12","Transfer",10
+"K12-012718","7/15/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",53,"Heartworm Negative"," 8/6/12","Transfer",22
+"K12-012747","7/22/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",0.5,"No Lab Test"," 7/22/12","Return to Owner",0
+"K12-012797","7/22/12","Stray","Dog","Neutered","Male",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","White & Tan",2.5,"No Lab Test"," 7/29/12","Adoption",7
+"K12-012811","7/22/12","Stray","Cat","Spayed","Female",2,"Injured or Sick","Siamese Mix","","","","","","",NA,NA,"","Seal Pt ",5,"No Lab Test"," 7/27/12","Humane Euthanasia",5
+"K12-012824","7/22/12","Stray","Cat","Neutered","Male",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","Seal Pt ",0.75,"No Lab Test"," 7/27/12","Transfer",5
+"K12-012935","7/22/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie & White",4.25,"FeLV Negative, FIV Negative"," 7/30/12","Adoption",8
+"K12-012984","7/22/12","Stray","Dog","Neutered","Male",0,"Injured or Sick","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",35,"No Lab Test"," 7/29/12","Adoption",7
+"K12-013030","7/22/12","Stray","Dog","Neutered","Male",0,"Normal","Germ Shepherd & Bloodhound","N","N","Y","Y","N","Y",12,88,"Working","Brown & Black",12.5,"No Lab Test"," 7/30/12","Adoption",8
+"K12-013050","7/22/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Br Brindle",3.75,"No Lab Test"," 7/26/12","Transfer",4
+"K12-013078","7/22/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",2,"FeLV Negative, FIV Negative"," 9/29/12","Adoption",69
+"K12-013081","7/22/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",2.25,"FeLV Negative, FIV Negative"," 10/8/12","Adoption",78
+"K12-013099","7/22/12","Owner Surrender","Dog","Neutered","Male",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Brown & White",52,"Heartworm Negative"," 8/15/12","Humane Euthanasia",24
+"K12-013106","7/22/12","Owner Surrender","Cat","Intact","Male",3,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",8.5,"FeLV Negative, FIV Negative"," 7/30/12","Transfer",8
+"K12-013134","7/22/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Blue & White",51,"Heartworm Negative"," 8/14/12","Humane Euthanasia",23
+"K12-013146","7/22/12","Owner Surrender","Dog","Spayed","Female",15,"Injured or Sick","Collie Smooth Mix","N","N","Y","Y","Y","Y",15,55,"Herding","Tan & Brown",45.99,"No Lab Test"," 7/28/12","Humane Euthanasia",6
+"K12-013174","7/22/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Welsh Spr Span Mix","N","N","Y","Y","Y","Y",15,34,"Herding","Liver & White",8.5,"No Lab Test"," 7/30/12","Transfer",8
+"K12-013289","7/29/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Mh Mix","","","","","","",NA,NA,"","Brn Tabby ",2,"FeLV Negative, FIV Negative"," 9/16/12","Adoption",49
+"K12-013337","7/29/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White ",0.75,"FeLV Negative, FIV Negative"," 7/30/12","Transfer",1
+"K12-013351","7/29/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.75,"FeLV Negative, FIV Negative"," 7/30/12","Transfer",1
+"K12-013442","7/29/12","Stray","Dog","Neutered","Male",1,"Normal","Boxer Mix","N","N","Y","Y","Y","Y",12,72,"Working","Black & White",35,"Heartworm Negative"," 8/2/12","Return to Owner",4
+"K12-013466","7/29/12","Owner Surrender","Cat","Neutered","Male",11,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Brn Tabby",8.5,"FeLV Negative, FIV Negative"," 8/10/12","Humane Euthanasia",12
+"K12-013477","7/29/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",0.75,"FeLV Negative, FIV Negative"," 8/1/12","Transfer",3
+"K12-013542","7/29/12","Stray","Dog","Intact","Female",5,"Normal","Welsh Corgi Car Mix","N","N","Y","Y","Y","Y",15,34,"Herding","Red Merle ",25,"Heartworm Positive"," 8/8/12","Transfer",10
+"K12-013561","7/29/12","Stray","Dog","Spayed","Female",1,"Normal","Aust Shepherd & Border Collie","N","N","Y","Y","Y","Y",15,65,"Herding","Chocolate & White",33,"Heartworm Negative"," 8/21/12","Transfer",23
+"K12-013562","7/29/12","Stray","Dog","Spayed","Female",0,"Normal","Chinese Sharpei Mix","N","Y","N","Y","N","Y",10,65,"Non-Sporting","Tan ",13.25,"No Lab Test"," 8/8/12","Adoption",10
+"K12-013589","7/29/12","Stray","Dog","Neutered","Male",0,"Normal","Catahoula Mix","N","Y","N","N","N","Y",13,80,"Herding","Black & Bl Brindle",29,"No Lab Test"," 8/31/12","Adoption",33
+"K12-013608","7/29/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.5,"No Lab Test"," 8/7/12","Transfer",9
+"K12-013664","7/29/12","Public Assist","Dog","Neutered","Male",9,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",89.5,"Heartworm Negative"," 8/12/12","Return to Owner",14
+"K12-013679","7/29/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",2,"FeLV Negative, FIV Negative"," 8/27/12","Adoption",29
+"K12-013733","8/5/12","Public Assist","Dog","Neutered","Male",7,"Normal","Chow Chow & Germ Shepherd","Y","Y","Y","Y","N","N",15,70,"Non-Sporting","Brown & Black",51,"No Lab Test"," 8/14/12","Return to Owner",9
+"K12-013759","8/5/12","Stray","Dog","Spayed","Female",1,"Normal","Dachshund Mix","Y","N","N","Y","Y","N",14,28,"Hound","Red ",11.5,"Heartworm Negative"," 8/12/12","Adoption",7
+"K12-013763","8/5/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Gold ",84,"Heartworm Negative"," 11/26/12","Transfer",113
+"K12-013796","8/5/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Blue & White",3.75,"FeLV Negative, FIV Negative"," 8/11/12","Adoption",6
+"K12-013815","8/5/12","Stray","Dog","Intact","Female",1,"Injured or Sick","Great Pyrenees Mix","N","N","Y","N","N","Y",12,120,"Herding","White ",40,"No Lab Test"," 8/11/12","Humane Euthanasia",6
+"K12-013834","8/5/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.5,"No Lab Test"," 8/7/12","Transfer",2
+"K12-013850","8/5/12","Euthanasia Request","Dog","Neutered","Male",12,"Normal","Bearded Collie ","N","N","Y","Y","Y","Y",13,60,"Herding","Tan & Blue",33.5,"Heartworm Negative"," 8/7/12","Humane Euthanasia",2
+"K12-013865","8/5/12","Stray","Dog","Neutered","Male",6,"Normal","Shih Tzu ","N","N","N","N","N","Y",16,16,"Non-Sporting","Gray & White",14,"Heartworm Negative"," 8/9/12","Return to Owner",4
+"K12-014000","8/5/12","Stray","Dog","Intact","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan ",16,"No Lab Test"," 8/11/12","Humane Euthanasia",6
+"K12-014031","8/5/12","Stray","Dog","Spayed","Female",4,"Normal","Aust Cattle Dog Mix","Y","N","Y","Y","N","Y",16,35,"Herding","Brown ",35,"Heartworm Negative"," 8/14/12","Return to Owner",9
+"K12-014074","8/5/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",2.25,"FeLV Negative, FIV Negative"," 8/17/12","Transfer",12
+"K12-014076","8/5/12","Stray","Dog","Intact","Male",0,"Injured or Sick","Am Pit Bull Ter Mix","N","N","N","Y","N","Y",14,90,"Terrier","Black & White",2,"No Lab Test"," 8/14/12","Died",9
+"K12-014100","8/5/12","Stray","Dog","Neutered","Male",0,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Black & Tan",30,"No Lab Test"," 8/17/12","Transfer",12
+"K12-014285","8/12/12","Owner Surrender","Cat","Spayed","Female",0,"Injured or Sick","Domestic Lh Mix","","","","","","",NA,NA,"","Tortie ",1.25,"FeLV Negative, FIV Negative"," 12/13/12","Adoption",123
+"K12-014365","8/12/12","Stray","Cat","Spayed","Female",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","Seal Pt ",2.75,"FeLV Negative, FIV Negative"," 9/24/12","Adoption",43
+"K12-014366","8/12/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.75,"FeLV Negative, FIV Negative"," 1/18/13","Adoption",159
+"K12-014431","8/12/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",2.75,"FeLV Negative, FIV Negative"," 8/25/12","Adoption",13
+"K12-014482","8/12/12","Owner Surrender","Dog","Neutered","Male",2,"Injured or Sick","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Black & White",58,"Heartworm Negative"," 11/2/12","Humane Euthanasia",82
+"K12-014491","8/12/12","Stray","Dog","Spayed","Female",2,"Injured or Sick","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Chocolate & Tan",8.25,"Heartworm Positive"," 9/10/12","Transfer",29
+"K12-014492","8/12/12","Stray","Dog","Neutered","Male",1,"Normal","Aust Shepherd & Aust Cattle Dog","N","N","Y","Y","Y","Y",15,65,"Herding","Black & White",33,"Heartworm Negative"," 8/22/12","Adoption",10
+"K12-014506","8/12/12","Stray","Dog","Neutered","Male",3,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Black & Tan",31.25,"Heartworm Negative"," 8/23/12","Transfer",11
+"K12-014526","8/12/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",3,"FeLV Negative, FIV Negative"," 9/3/12","Adoption",22
+"K12-014537","8/12/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",2.25,"No Lab Test"," 10/27/12","Adoption",76
+"K12-014580","8/12/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Lilac Pt ",0.5,"FeLV Negative, FIV Negative"," 8/22/12","Transfer",10
+"K12-014606","8/12/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Anatol Shepherd & Germ Shepherd","Y","N","Y","Y","Y","Y",15,150,"Working","Tan & White",38.5,"No Lab Test"," 8/19/12","Adoption",7
+"K12-014615","8/12/12","Stray","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Tortie ",7.5,"No Lab Test"," 8/22/12","Transfer",10
+"K12-014740","8/19/12","Owner Surrender","Dog","Intact","Male",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",10.99,"No Lab Test"," 8/30/12","Transfer",11
+"K12-014823","8/19/12","Stray","Dog","Neutered","Male",5,"Normal","Poodle Min Mix","N","N","Y","Y","N","Y",14,9,"Toy","White ",13.25,"Heartworm Positive"," 9/1/12","Adoption",13
+"K12-014912","8/19/12","Stray","Dog","Spayed","Female",0,"Normal","Boston Terrier & Aust Cattle Dog","N","N","Y","N","Y","Y",15,25,"Non-Sporting","Br Brindle & White",6,"No Lab Test"," 9/22/12","Adoption",34
+"K12-014917","8/19/12","Owner Surrender","Dog","Neutered","Male",6,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & Tan",13.25,"Heartworm Negative"," 8/28/12","Humane Euthanasia",9
+"K12-014929","8/19/12","Stray","Dog","Spayed","Female",1,"Normal","Chihuahua Sh & Dachshund","N","N","Y","N","N","N",18,6,"Toy","White & Brown",13.75,"Heartworm Negative"," 8/29/12","Adoption",10
+"K12-014980","8/19/12","Stray","Dog","Spayed","Female",1,"Normal","Pointer & Boxer","N","N","N","Y","N","Y",15,75,"Sporting","Brown & White",50,"Heartworm Negative"," 8/27/12","Return to Owner",8
+"K12-014983","8/19/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Pekingese Mix","N","Y","N","N","N","Y",15,14,"Toy","White & Black",7.5,"No Lab Test"," 8/24/12","Transfer",5
+"K12-015028","8/19/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","Lynx Pt ",5,"FeLV Negative, FIV Negative"," 9/1/12","Adoption",13
+"K12-015035","8/19/12","Owner Surrender","Dog","Spayed","Female",5,"Normal","Rat Terrier Mix","N","N","Y","N","Y","Y",14,25,"Terrier","Tricolor ",13.5,"Heartworm Negative"," 12/7/12","Adoption",110
+"K12-015040","8/19/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Orange",4,"FeLV Negative, FIV Negative"," 11/5/12","Adoption",78
+"K12-015042","8/19/12","Stray","Dog","Spayed","Female",0,"Normal","Aust Shepherd Mix","N","N","Y","Y","Y","Y",15,65,"Herding","Black & Tan",28,"No Lab Test"," 8/30/12","Adoption",11
+"K12-015112","8/26/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Germ Shepherd & Labrador Retr","N","N","Y","Y","N","Y",12,88,"Working","Black ",44,"No Lab Test"," 9/3/12","Adoption",8
+"K12-015204","8/26/12","Owner Surrender","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blk Tabby ",1.25,"FeLV Negative, FIV Negative"," 9/4/12","Transfer",9
+"K12-015300","8/26/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",0.5,"FeLV Negative, FIV Negative"," 8/31/12","Humane Euthanasia",5
+"K12-015323","8/26/12","Owner Surrender","Dog","Spayed","Female",2,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",57,"Heartworm Negative"," 9/8/12","Adoption",13
+"K12-015352","8/26/12","Stray","Dog","Neutered","Male",0,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",27,"No Lab Test"," 9/2/12","Transfer",7
+"K12-015461","8/26/12","Public Assist","Dog","Spayed","Female",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Brown & White",47,"No Lab Test"," 9/9/12","Return to Owner",14
+"K12-015493","8/26/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blk Tabby ",0.75,"FeLV Negative, FIV Negative"," 9/4/12","Transfer",9
+"K12-015517","8/26/12","Stray","Cat","Neutered","Male",6,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",7.75,"FeLV Negative, FIV Negative"," 9/15/12","Transfer",20
+"K12-015558","8/26/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Rhod Ridgeback Mix","N","Y","N","Y","N","Y",12,85,"Hound","Tan & White",9.25,"No Lab Test"," 9/3/12","Adoption",8
+"K12-015624","9/2/12","Public Assist","Dog","Spayed","Female",2,"Normal","Aust Cattle Dog Mix","Y","N","Y","Y","N","Y",16,35,"Herding","Red Tick & Red",27,"Heartworm Negative"," 9/10/12","Return to Owner",8
+"K12-015643","9/2/12","Stray","Dog","Intact","Male",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White ",50.99,"No Lab Test"," 9/9/12","Humane Euthanasia",7
+"K12-015663","9/2/12","Stray","Dog","Spayed","Female",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Brown & White",37.5,"Heartworm Negative"," 9/8/12","Transfer",6
+"K12-015733","9/2/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Bull Terrier Mix","Y","N","N","Y","Y","N",14,85,"Terrier","White & Br Brindle",8.25,"No Lab Test"," 9/5/12","Transfer",3
+"K12-015761","9/2/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Chinese Sharpei & Pit Bull","N","Y","N","Y","N","Y",10,65,"Non-Sporting","Tan & White",36,"No Lab Test"," 9/4/12","Adoption",2
+"K12-015838","9/2/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Org Tabby ",4,"FeLV Negative, FIV Negative"," 12/20/12","Adoption",109
+"K12-015874","9/2/12","Stray","Dog","Spayed","Female",8,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Tan & Black",55,"Heartworm Negative"," 9/11/12","Return to Owner",9
+"K12-015892","9/2/12","Owner Surrender","Dog","Neutered","Male",0,"Injured or Sick","Aust Cattle Dog Mix","Y","N","Y","Y","N","Y",16,35,"Herding","Black & White",11.5,"No Lab Test"," 9/8/12","Adoption",6
+"K12-015913","9/2/12","Public Assist","Dog","Spayed","Female",2,"Normal","Am Pit Bull Ter ","N","N","N","Y","N","Y",14,90,"Terrier","Fawn ",57,"No Lab Test"," 9/28/12","Humane Euthanasia",26
+"K12-015918","9/2/12","Stray","Dog","Intact","Male",1,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Chocolate & White",7.75,"Heartworm Negative"," 9/11/12","Transfer",9
+"K12-015935","9/2/12","Public Assist","Dog","Neutered","Male",7,"Normal","English Springer Spaniel Mix","N","N","N","N","Y","Y",14,55,"Sporting","White & Liver",55,"Heartworm Positive"," 9/10/12","Return to Owner",8
+"K12-015971","9/2/12","Stray","Dog","Spayed","Female",3,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Black",68.5,"Heartworm Negative"," 9/11/12","Return to Owner",9
+"K12-016105","9/9/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Br Brindle & White",13.75,"No Lab Test"," 9/10/12","Transfer",1
+"K12-016163","9/9/12","Stray","Cat","Spayed","Female",8,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",13.5,"FeLV Negative, FIV Negative"," 9/12/12","Return to Owner",3
+"K12-016197","9/9/12","Stray","Dog","Spayed","Female",1,"Normal","Dachshund Wh Mix","Y","N","N","Y","Y","N",14,28,"Hound","Tan & White",7.25,"Heartworm Negative"," 9/15/12","Adoption",6
+"K12-016234","9/9/12","Stray","Dog","Neutered","Male",1,"Normal","Rottweiler Mix","N","N","Y","N","N","N",12,110,"Working","Tricolor ",80.25,"Heartworm Negative"," 9/13/12","Return to Owner",4
+"K12-016235","9/9/12","Stray","Dog","Intact","Female",13,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle ",41,"Heartworm Positive"," 9/13/12","Return to Owner",4
+"K12-016256","9/9/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","White & Seal Pt",1.75,"FeLV Negative, FIV Negative"," 9/15/12","Adoption",6
+"K12-016273","9/9/12","Owner Surrender","Dog","Spayed","Female",0,"Injured or Sick","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black ",42,"No Lab Test"," 9/16/12","Adoption",7
+"K12-016297","9/9/12","Stray","Dog","Spayed","Female",7,"Normal","Lhasa Apso ","N","Y","N","Y","Y","Y",20,19,"Non-Sporting","Cream ",18,"Heartworm Negative"," 9/17/12","Transfer",8
+"K12-016389","9/9/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Norfolk Terrier & Dachshund","Y","Y","N","N","N","Y",15,11,"Terrier","Tricolor ",16,"Heartworm Negative"," 9/18/12","Transfer",9
+"K12-016396","9/9/12","Owner Surrender","Dog","Spayed","Female",2,"Normal","English Springer Spaniel","N","N","N","N","Y","Y",14,55,"Sporting","Chocolate & White",40.99,"No Lab Test"," 9/15/12","Transfer",6
+"K12-016457","9/9/12","Stray","Dog","Neutered","Male",10,"Normal","Jack Russ Terr Mix","N","N","Y","Y","N","Y",16,18,"Sporting","White & Brown",16.5,"Heartworm Negative"," 9/30/12","Adoption",21
+"K12-016477","9/9/12","Stray","Dog","Spayed","Female",0,"Normal","Labrador Retr & Am Pit Bull Ter","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",19.5,"No Lab Test"," 9/19/12","Adoption",10
+"K12-016539","9/9/12","Stray","Cat","Neutered","Male",0,"Injured or Sick","Domestic Mh Mix","","","","","","",NA,NA,"","White & Brn Tabby",2.25,"FeLV Negative, FIV Negative"," 10/15/12","Adoption",36
+"K12-016723","9/16/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",0.75,"FeLV Negative, FIV Negative"," 9/19/12","Transfer",3
+"K12-016785","9/16/12","Stray","Dog","Intact","Male",6,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","Blue & White",63,"Heartworm Negative"," 9/19/12","Return to Owner",3
+"K12-016918","9/16/12","Stray","Dog","Intact","Male",0,"Normal","Bearded Collie Mix","N","N","Y","Y","Y","Y",13,60,"Herding","White & Black",35.99,"No Lab Test"," 10/5/12","Transfer",19
+"K12-016943","9/16/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Yellow ",60.5,"Heartworm Negative"," 9/24/12","Adoption",8
+"K12-016949","9/16/12","Stray","Dog","Neutered","Male",9,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Chocolate & White",54,"Heartworm Positive"," 9/24/12","Return to Owner",8
+"K12-017010","9/16/12","Owner Surrender","Dog","Neutered","Male",4,"Normal","Yorkshire Terr & Poodle Min","N","N","N","Y","N","Y",15,7,"Terrier","Gray & Black",10.75,"Heartworm Negative"," 9/23/12","Adoption",7
+"K12-017050","9/23/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",1,"FeLV Negative, FIV Negative"," 9/23/12","Transfer",0
+"K12-017101","9/23/12","Stray","Cat","Neutered","Male",10,"Injured or Sick","Domestic Lh Mix","","","","","","",NA,NA,"","Org Tabby & White",5.75,"FeLV Negative, FIV Negative"," 9/30/12","Humane Euthanasia",7
+"K12-017211","9/9/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",2.25,"FeLV Negative, FIV Negative"," 9/25/12","Adoption",16
+"K12-017472","9/23/12","Stray","Dog","Spayed","Female",5,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan & White",8.25,"Heartworm Negative"," 10/4/12","Adoption",11
+"K12-017492","9/23/12","Owner Surrender","Dog","Spayed","Female",4,"Normal","Shiba Inu Mix","N","Y","Y","Y","N","Y",15,23,"Non-Sporting","Tan & Black",38.25,"Heartworm Negative"," 10/1/12","Adoption",8
+"K12-017504","9/23/12","Owner Surrender","Cat","Spayed","Female",9,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Brn Tabby",11.5,"FeLV Negative, FIV Negative"," 12/24/12","Adoption",92
+"K12-017507","9/23/12","Stray","Cat","Spayed","Female",5,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White ",8.25,"FeLV Negative, FIV Negative"," 1/29/13","Adoption",128
+"K12-017509","9/23/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",2,"FeLV Negative, FIV Negative"," 11/20/12","Adoption",58
+"K12-017686","9/30/12","Stray","Cat","Intact","Male",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",0.5,"No Lab Test"," 10/3/12","Transfer",3
+"K12-017687","9/30/12","Stray","Cat","Intact","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",1.75,"No Lab Test"," 10/6/12","Humane Euthanasia",6
+"K12-017693","9/30/12","Stray","Dog","Neutered","Male",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown & White",5.75,"No Lab Test"," 10/7/12","Adoption",7
+"K12-017727","9/30/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",3.5,"FeLV Negative, FIV Negative"," 10/5/12","Adoption",5
+"K12-017766","9/30/12","Stray","Dog","Spayed","Female",1,"Injured or Sick","Pointer Mix","N","N","N","Y","N","Y",15,75,"Sporting","Brown & White",35.5,"Heartworm Negative"," 10/12/12","Adoption",12
+"K12-017795","9/30/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Lh Mix","","","","","","",NA,NA,"","Black ",1.25,"FeLV Negative, FIV Negative"," 10/8/12","Transfer",8
+"K12-017797","9/30/12","Stray","Dog","Neutered","Male",11,"Normal","Aust Shepherd Mix","N","N","Y","Y","Y","Y",15,65,"Herding","Tricolor & White",55.5,"Heartworm Negative"," 10/3/12","Return to Owner",3
+"K12-017827","9/30/12","Stray","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",8,"No Lab Test"," 10/9/12","Transfer",9
+"K12-017849","9/30/12","Owner Surrender","Dog","Neutered","Male",2,"Normal","Maltese Mix","N","N","N","N","Y","Y",14,7,"Toy","White ",12.75,"Heartworm Negative"," 10/5/12","Adoption",5
+"K12-017858","9/30/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue ",2.5,"FeLV Negative, FIV Negative"," 10/10/12","Humane Euthanasia",10
+"K12-017872","9/30/12","Stray","Cat","Spayed","Female",2,"Injured or Sick","Domestic Mh Mix","","","","","","",NA,NA,"","Torbie ",6.75,"FeLV Negative, FIV Negative"," 10/22/12","Adoption",22
+"K12-017961","9/30/12","Stray","Dog","Spayed","Female",2,"Normal","Beagle & Germ Shepherd","N","N","Y","N","Y","Y",15,35,"Hound","Black & Tan",32,"Heartworm Negative"," 10/16/12","Adoption",16
+"K12-017990","9/30/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",0.25,"FeLV Negative, FIV Negative"," 10/9/12","Transfer",9
+"K12-018009","10/7/12","Stray","Dog","Intact","Male",3,"Injured or Sick","Border Collie ","N","N","Y","N","Y","Y",13,45,"Herding","Black & White",35,"Heartworm Negative"," 10/13/12","Died",6
+"K12-018048","10/7/12","Stray","Dog","Intact","Female",9,"Normal","Harrier Mix","N","N","Y","N","N","Y",15,60,"Hound","Black & Tan",38.25,"Heartworm Negative"," 10/8/12","Return to Owner",1
+"K12-018064","10/7/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Lh Mix","","","","","","",NA,NA,"","Black & White",1.5,"FeLV Negative, FIV Negative"," 10/25/12","Adoption",18
+"K12-018107","10/7/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",0.5,"No Lab Test"," 10/9/12","Transfer",2
+"K12-018170","10/7/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","White & Black",1,"No Lab Test"," 10/18/12","Transfer",11
+"K12-018427","10/14/12","Stray","Cat","Neutered","Male",7,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",7.75,"FeLV Negative, FIV Negative"," 10/19/12","Humane Euthanasia",5
+"K12-018459","10/14/12","Stray","Dog","Spayed","Female",1,"Normal","Plott Hound Mix","N","N","N","N","Y","N",14,27,"Hound","Br Brindle & White",52,"Heartworm Negative"," 10/23/12","Adoption",9
+"K12-018467","10/14/12","Stray","Dog","Spayed","Female",5,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","Brown & Black",67,"Heartworm Negative"," 10/15/12","Return to Owner",1
+"K12-018514","10/14/12","Stray","Dog","Neutered","Male",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Brown & White",30,"No Lab Test"," 10/20/12","Adoption",6
+"K12-018722","10/14/12","Stray","Cat","Spayed","Female",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Torbie ",7.25,"No Lab Test"," 10/22/12","Transfer",8
+"K12-018827","10/14/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",3,"FeLV Negative, FIV Negative"," 11/16/12","Adoption",33
+"K12-018829","10/14/12","Stray","Dog","Spayed","Female",6,"Normal","Jack Russ Terr Mix","N","N","Y","Y","N","Y",16,18,"Sporting","White & Brown",27,"Heartworm Negative"," 10/20/12","Return to Owner",6
+"K12-018868","10/14/12","Stray","Dog","Neutered","Male",3,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",59,"Heartworm Negative"," 2/11/13","Adoption",120
+"K12-018882","10/14/12","Owner Surrender","Dog","Neutered","Male",0,"Normal","Labrador Retr & Germ Shepherd","N","Y","Y","Y","Y","Y",12,79,"Sporting","Tan & Black",55,"No Lab Test"," 10/22/12","Adoption",8
+"K12-018901","10/21/12","Stray","Dog","Neutered","Male",0,"Normal","Beagle Mix","N","N","Y","N","Y","Y",15,35,"Hound","Black & White",9.5,"No Lab Test"," 10/26/12","Adoption",5
+"K12-019050","10/21/12","Stray","Dog","Neutered","Male",7,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & White",6.5,"Heartworm Negative"," 10/23/12","Return to Owner",2
+"K12-019088","10/21/12","Stray","Dog","Neutered","Male",2,"Normal","Poodle Stnd & Labrador Retr","N","Y","Y","N","Y","Y",15,77,"Crossbreed","Buff ",35.5,"Heartworm Negative"," 10/24/12","Return to Owner",3
+"K12-019119","10/21/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",3.5,"FeLV Negative, FIV Negative"," 3/27/13","Transfer",157
+"K12-019121","10/21/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",4.75,"FeLV Negative, FIV Negative"," 11/3/12","Adoption",13
+"K12-019141","10/21/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",2.75,"FeLV Negative, FIV Negative"," 12/13/12","Humane Euthanasia",53
+"K12-019143","10/21/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",5.5,"FeLV Negative, FIV Negative"," 1/23/13","Adoption",94
+"K12-019152","10/21/12","Stray","Cat","Intact","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",1,"FeLV Negative, FIV Negative"," 10/24/12","Transfer",3
+"K12-019178","10/21/12","Stray","Dog","Neutered","Male",3,"Normal","Black Mouth Cur Mix","N","Y","Y","Y","N","Y",14,90,"Sporting","Tan & Black",59.5,"Heartworm Negative"," 10/25/12","Return to Owner",4
+"K12-019214","10/21/12","Stray","Dog","Neutered","Male",1,"Normal","Amer Bulldog ","N","N","N","Y","N","Y",12,55,"Non-Sporting","White & Brown",62.25,"Heartworm Negative"," 11/18/12","Transfer",28
+"K12-019223","10/21/12","Public Assist","Cat","Spayed","Female",0,"Normal","Siamese Mix","","","","","","",NA,NA,"","Lynx Pt ",2.5,"FeLV Negative, FIV Negative"," 12/24/12","Adoption",64
+"K12-019228","10/21/12","Owner Surrender","Cat","Neutered","Male",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",9.25,"FeLV Negative, FIV Negative"," 11/2/12","Transfer",12
+"K12-019356","10/21/12","Stray","Dog","Spayed","Female",1,"Normal","Rat Terrier & Chihuahua Sh","N","N","Y","N","Y","Y",14,25,"Terrier","Black & White",9.5,"Heartworm Negative"," 10/28/12","Return to Owner",7
+"K12-019411","10/28/12","Stray","Dog","Neutered","Male",0,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","Black & White",11.75,"No Lab Test"," 1/2/13","Adoption",66
+"K12-019463","10/28/12","Owner Surrender","Dog","Neutered","Male",4,"Injured or Sick","Dachshund Mix","Y","N","N","Y","Y","N",14,28,"Hound","Red & White",7,"Heartworm Negative"," 11/20/12","Transfer",23
+"K12-019734","10/28/12","Stray","Dog","Neutered","Male",0,"Normal","Pekingese & Pug","N","Y","N","N","N","Y",15,14,"Toy","White ",6.25,"No Lab Test"," 11/7/12","Adoption",10
+"K12-019867","11/4/12","Stray","Dog","Spayed","Female",8,"Normal","Dalmatian Mix","N","N","N","Y","Y","Y",14,65,"Non-Sporting","White & Black",43,"No Lab Test"," 11/7/12","Transfer",3
+"K12-019892","11/4/12","Owner Surrender","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby & White",6,"FeLV Negative, FIV Negative"," 11/16/12","Adoption",12
+"K12-019948","11/4/12","Stray","Cat","Neutered","Male",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black & White",9.75,"FeLV Negative, FIV Negative"," 12/23/12","Adoption",49
+"K12-019963","11/4/12","Stray","Dog","Neutered","Male",1,"Injured or Sick","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Blue & White",59,"Heartworm Negative"," 11/19/12","Adoption",15
+"K12-020061","11/4/12","Stray","Dog","Spayed","Female",0,"Normal","Poodle Min Mix","N","N","Y","Y","N","Y",14,9,"Toy","White ",4.25,"No Lab Test"," 11/12/12","Transfer",8
+"K12-020126","11/4/12","Stray","Cat","Neutered","Male",5,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",11.5,"FeLV Negative, FIV Negative"," 11/14/12","Transfer",10
+"K12-020197","11/4/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",2,"FeLV Negative, FIV Negative"," 11/15/12","Transfer",11
+"K12-020205","11/4/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",1.25,"FeLV Negative, FIV Negative"," 11/15/12","Transfer",11
+"K12-020294","11/11/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","White & Black",0.75,"No Lab Test"," 11/12/12","Transfer",1
+"K12-020320","11/11/12","Owner Surrender","Dog","Neutered","Male",1,"Normal","Jack Russ Terr & Labrador Retr","N","N","Y","Y","N","Y",16,18,"Sporting","Black & Brown",26.5,"Heartworm Negative"," 11/19/12","Transfer",8
+"K12-020475","11/11/12","Owner Surrender","Dog","Neutered","Male",17,"Injured or Sick","Dachshund ","Y","N","N","Y","Y","N",14,28,"Hound","Brown ",6.5,"No Lab Test"," 11/15/12","Humane Euthanasia",4
+"K12-020543","11/11/12","Owner Surrender","Dog","Spayed","Female",1,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Tan ",55,"Heartworm Negative"," 11/25/12","Adoption",14
+"K12-020563","11/11/12","Owner Surrender","Dog","Spayed","Female",2,"Normal","Boxer Mix","N","N","Y","Y","Y","Y",12,72,"Working","Black ",48,"Heartworm Negative"," 12/12/12","Transfer",31
+"K12-020570","11/11/12","Stray","Dog","Spayed","Female",1,"Normal","Beagle & Aust Shepherd","N","N","Y","N","Y","Y",15,35,"Hound","Black & Tricolor",29,"No Lab Test"," 11/17/12","Return to Owner",6
+"K12-020631","11/11/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Lh Mix","","","","","","",NA,NA,"","Black ",2.25,"FeLV Negative, FIV Negative"," 12/14/12","Adoption",33
+"K12-020656","11/18/12","Stray","Dog","Spayed","Female",0,"Normal","Labrador Retr & Aust Cattle Dog","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",12.75,"No Lab Test"," 11/24/12","Adoption",6
+"K12-020669","11/18/12","Stray","Dog","Spayed","Female",1,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","White & Black",39,"Heartworm Negative"," 12/2/12","Adoption",14
+"K12-020696","11/18/12","Owner Surrender","Dog","Spayed","Female",0,"Normal","Boxer Mix","N","N","Y","Y","Y","Y",12,72,"Working","Brown & White",5,"No Lab Test"," 11/19/12","Transfer",1
+"K12-020709","11/18/12","Stray","Dog","Spayed","Female",2,"Normal","Jack Russ Terr Mix","N","N","Y","Y","N","Y",16,18,"Sporting","Brown & White",15,"Heartworm Negative"," 11/24/12","Adoption",6
+"K12-020738","11/18/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby ",4.25,"FeLV Negative, FIV Negative"," 12/22/12","Adoption",34
+"K12-020743","11/18/12","Stray","Dog","Neutered","Male",2,"Injured or Sick","Aust Cattle Dog & Labrador Retr","Y","N","Y","Y","N","Y",16,35,"Herding","White & Tan",48.25,"Heartworm Negative"," 6/17/13","Adoption",211
+"K12-020744","11/18/12","Stray","Dog","Spayed","Female",3,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Red & White",11,"Heartworm Negative"," 11/24/12","Adoption",6
+"K12-020752","11/18/12","Owner Surrender","Dog","Intact","Male",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Black & Tan",13.25,"No Lab Test"," 11/22/12","Transfer",4
+"K12-021100","11/25/12","Owner Surrender","Dog","Neutered","Male",5,"Normal","Chihuahua Sh & Dachshund","N","N","Y","N","N","N",18,6,"Toy","Brown ",6.5,"Heartworm Negative"," 2/24/13","Adoption",91
+"K12-021140","11/25/12","Stray","Cat","Spayed","Female",2,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Org Tabby & White",8,"FeLV Negative, FIV Negative"," 2/14/13","Transfer",81
+"K12-021182","11/25/12","Public Assist","Dog","Neutered","Male",6,"Injured or Sick","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black ",47,"Heartworm Positive"," 3/6/13","Humane Euthanasia",101
+"K12-021203","11/25/12","Stray","Dog","Intact","Female",3,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Br Brindle & White",46,"Heartworm Negative"," 12/4/12","Humane Euthanasia",9
+"K12-021224","11/25/12","Stray","Dog","Intact","Male",3,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Brown ",13,"Heartworm Negative"," 12/15/12","Transfer",20
+"K12-021230","11/25/12","Stray","Dog","Intact","Female",12,"Injured or Sick","Collie Rough Mix","N","N","Y","Y","Y","Y",15,55,"Herding","Tricolor ",34,"Heartworm Negative"," 12/3/12","Humane Euthanasia",8
+"K12-021252","11/25/12","Stray","Dog","Intact","Male",4,"Normal","Chow Chow & Aust Cattle Dog","Y","Y","Y","Y","N","N",15,70,"Non-Sporting","Red & Black",42,"Heartworm Negative"," 12/26/12","Transfer",31
+"K12-021347","11/25/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Calico ",2,"FeLV Negative, FIV Negative"," 12/5/12","Adoption",10
+"K12-021507","12/2/12","Owner Surrender","Dog","Spayed","Female",3,"Normal","Pit Bull ","N","N","N","Y","N","Y",14,90,"Terrier","Fawn & White",63,"Heartworm Positive"," 12/7/12","Humane Euthanasia",5
+"K12-021512","12/2/12","Owner Surrender","Cat","Spayed","Female",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",6.5,"FeLV Negative, FIV Negative"," 12/13/12","Transfer",11
+"K12-021519","12/2/12","Stray","Cat","Neutered","Male",1,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Lynx Pt ",9.25,"FeLV Negative, FIV Negative"," 12/17/12","Adoption",15
+"K12-021596","12/2/12","Public Assist","Dog","Neutered","Male",4,"Normal","Welsh Corgi Car & Chihuahua Sh","N","N","Y","Y","Y","Y",15,34,"Herding","Tan & White",17.25,"No Lab Test"," 12/16/12","Return to Owner",14
+"K12-021670","12/2/12","Stray","Cat","Neutered","Male",0,"Normal","Maine Coon Mix","","","","","","",NA,NA,"","Blk Tabby ",2.5,"FeLV Negative, FIV Negative"," 1/23/13","Adoption",52
+"K12-021673","12/2/12","Public Assist","Dog","Spayed","Female",2,"Normal","Sc Wheat Terr ","N","N","N","N","N","Y",15,45,"Terrier","Buff ",26,"No Lab Test"," 12/7/12","Return to Owner",5
+"K12-021752","12/2/12","Stray","Cat","Spayed","Female",0,"Injured or Sick","Domestic Sh Mix","","","","","","",NA,NA,"","Blue Tabby ",2.5,"FeLV Negative, FIV Negative"," 12/22/12","Transfer",20
+"K12-021838","12/9/12","Stray","Cat","Spayed","Female",3,"Normal","Domestic Mh Mix","","","","","","",NA,NA,"","Calico ",8,"FeLV Negative, FIV Negative"," 12/15/12","Transfer",6
+"K12-021864","12/9/12","Stray","Dog","Spayed","Female",8,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Black & White",94,"No Lab Test"," 12/12/12","Return to Owner",3
+"K12-021903","12/9/12","Stray","Dog","Spayed","Female",1,"Normal","Germ Shepherd Mix","N","N","Y","Y","N","Y",12,88,"Working","White ",49,"Heartworm Negative"," 12/17/12","Adoption",8
+"K12-021908","12/9/12","Stray","Dog","Spayed","Female",1,"Normal","Manchester Terr Mix","Y","N","N","N","N","N",15,22,"Terrier","Black & Brown",18,"Heartworm Negative"," 12/16/12","Adoption",7
+"K12-021997","12/9/12","Public Assist","Dog","Neutered","Male",3,"Normal","Catahoula ","N","Y","N","N","N","Y",13,80,"Herding","Blue Merle ",45.5,"Heartworm Negative"," 12/20/12","Return to Owner",11
+"K12-022013","12/9/12","Stray","Dog","Neutered","Male",3,"Normal","Dandie Dinmont Mix","Y","Y","Y","N","Y","Y",15,24,"Terrier","Gray & Cream",20.5,"Heartworm Negative"," 12/13/12","Return to Owner",4
+"K12-022020","12/9/12","Owner Surrender","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",4.25,"FeLV Negative, FIV Negative"," 12/23/12","Transfer",14
+"K12-022077","12/9/12","Owner Surrender","Cat","Neutered","Male",6,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby ",9,"FeLV Negative, FIV Negative"," 1/18/13","Adoption",40
+"K12-022120","12/9/12","Stray","Dog","Spayed","Female",4,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Chocolate & White",6.25,"Heartworm Negative"," 12/20/12","Adoption",11
+"K12-022168","12/9/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","White & Blue",4,"FeLV Negative, FIV Negative"," 12/21/12","Adoption",12
+"K12-022216","12/16/12","Stray","Dog","Intact","Female",8,"Normal","Pit Bull & Labrador Retr","N","N","N","Y","N","Y",14,90,"Terrier","Black ",60.5,"Heartworm Negative"," 1/12/13","Adoption",27
+"K12-022328","12/16/12","Stray","Dog","Neutered","Male",2,"Normal","Yorkshire Terr Mix","N","N","N","Y","N","Y",15,7,"Terrier","Brown ",8.5,"Heartworm Negative"," 12/23/12","Adoption",7
+"K12-022363","12/16/12","Public Assist","Dog","Neutered","Male",2,"Normal","Canaan Dog Mix","N","N","N","Y","N","Y",16,55,"Herding","Brown & Tan",51,"No Lab Test"," 12/27/12","Return to Owner",11
+"K12-022379","12/16/12","Stray","Dog","Spayed","Female",3,"Normal","Norfolk Terrier Mix","Y","Y","N","N","N","Y",15,11,"Terrier","Cream ",10,"Heartworm Negative"," 12/23/12","Adoption",7
+"K12-022399","12/16/12","Stray","Dog","Neutered","Male",2,"Normal","Poodle Min Mix","N","N","Y","Y","N","Y",14,9,"Toy","White & Black",9.25,"Heartworm Negative"," 12/24/12","Adoption",8
+"K12-022434","12/16/12","Owner Surrender","Dog","Neutered","Male",7,"Normal","Lhasa Apso Mix","N","Y","N","Y","Y","Y",20,19,"Non-Sporting","Tan ",29,"Heartworm Negative"," 12/26/12","Transfer",10
+"K12-022495","12/16/12","Stray","Dog","Spayed","Female",4,"Normal","Maltese Mix","N","N","N","N","Y","Y",14,7,"Toy","White ",8.5,"Heartworm Negative"," 12/27/12","Adoption",11
+"K12-022496","12/16/12","Owner Surrender","Dog","Intact","Female",0,"Normal","Chihuahua Sh Mix","N","N","Y","N","N","N",18,6,"Toy","Tan ",8.75,"Heartworm Negative"," 12/23/12","Transfer",7
+"K12-022502","12/16/12","Stray","Dog","Spayed","Female",5,"Normal","West Highland & Pit Bull","N","Y","N","N","N","Y",14,20,"Terrier","Bl Brindle ",45,"No Lab Test"," 12/22/12","Return to Owner",6
+"K12-022529","12/16/12","Stray","Cat","Spayed","Female",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Black ",3.25,"No Lab Test"," 12/26/12","Transfer",10
+"K12-022532","12/16/12","Stray","Dog","Neutered","Male",2,"Normal","Dachshund ","Y","N","N","Y","Y","N",14,28,"Hound","Tan & White",14.25,"Heartworm Negative"," 1/4/13","Transfer",19
+"K12-022538","12/16/12","Stray","Dog","Neutered","Male",2,"Normal","Pit Bull Mix","N","N","N","Y","N","Y",14,90,"Terrier","Tan & White",53.5,"Heartworm Positive"," 1/29/13","Transfer",44
+"K12-022585","12/23/12","Stray","Dog","Neutered","Male",8,"Normal","Labrador Retr Mix","N","Y","Y","Y","Y","Y",12,79,"Sporting","Yellow ",82.5,"No Lab Test"," 12/24/12","Return to Owner",1
+"K12-022595","12/23/12","Stray","Dog","Neutered","Male",0,"Normal","Norfolk Terrier Mix","Y","Y","N","N","N","Y",15,11,"Terrier","Cream & White",7.5,"No Lab Test"," 12/31/12","Adoption",8
+"K12-022596","12/23/12","Owner Surrender","Dog","Intact","Female",1,"Injured or Sick","Shih Tzu Mix","N","N","N","N","N","Y",16,16,"Non-Sporting","White & Black",5.75,"No Lab Test"," 12/24/12","Transfer",1
+"K12-022688","12/23/12","Stray","Cat","Neutered","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Blue ",4,"No Lab Test"," 1/2/13","Transfer",10
+"K12-022689","12/23/12","Stray","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Crm Tabby ",1.75,"FeLV Negative, FIV Negative"," 12/31/12","Humane Euthanasia",8
+"K12-022743","12/23/12","Owner Surrender","Cat","Intact","Male",0,"Normal","Domestic Sh Mix","","","","","","",NA,NA,"","Brn Tabby & White",1.75,"FeLV Negative, FIV Negative"," 1/4/13","Transfer",12
+"K12-022814","12/23/12","Owner Surrender","Dog","Neutered","Male",4,"Injured or Sick","Bruss Griffon Mix","N","N","Y","Y","N","Y",15,10,"Toy","Brown ",10.5,"No Lab Test"," 12/29/12","Humane Euthanasia",6
+"K12-022885","12/30/12","Stray","Dog","Intact","Male",2,"Normal","Poodle Min Mix","N","N","Y","Y","N","Y",14,9,"Toy","White ",13.5,"Heartworm Negative"," 1/4/13","Return to Owner",5
+"K12-022889","12/30/12","Stray","Dog","Neutered","Male",2,"Normal","Dachshund Mix","Y","N","N","Y","Y","N",14,28,"Hound","Red ",12,"Heartworm Negative"," 1/4/13","Adoption",5

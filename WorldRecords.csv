@@ -1,0 +1,286 @@
+Event,Type,Record,Athlete,Nationality,Location,Year
+Mens 100m,time,10.06,Bob Hayes,United States,"Tokyo, Japan",1964
+Mens 100m,time,10.03,Jim Hines,United States,"Sacramento, USA",1968
+Mens 100m,time,10.02,Charles Greene,United States,"Mexico City, Mexico",1968
+Mens 100m,time,9.95,Jim Hines,United States,"Mexico City, Mexico",1968
+Mens 100m,time,9.93,Calvin Smith,United States,"Colorado Springs, USA",1983
+Mens 100m,time,9.92,Carl Lewis,United States,"Seoul, South Korea",1988
+Mens 100m,time,9.9,Leroy Burrell,United States,"New York, USA",1991
+Mens 100m,time,9.86,Carl Lewis,United States,"Tokyo, Japan",1991
+Mens 100m,time,9.85,Leroy Burrell,United States,"Lausanne, Switzerland",1994
+Mens 100m,time,9.84,Donovan Bailey,Canada,"Atlanta, USA",1996
+Mens 100m,time,9.79,Maurice Greene,United States,"Athens, Greece",1999
+Mens 100m,time,9.78,Tim Montgomery,United States,"Paris, France",2002
+Mens 100m,time,9.77,Asafa Powell,Jamaica,"Athens, Greece",2005
+Mens 100m,time,9.74,Asafa Powell,Jamaica,"Rieti, Italy",2007
+Mens 100m,time,9.72,Usain Bolt,Jamaica,"New York, USA",2008
+Mens 100m,time,9.69,Usain Bolt,Jamaica,"Beijing, China",2008
+Mens 100m,time,9.58,Usain Bolt,Jamaica,"Berlin, Germany",2009
+Womens 100m,time,11.07,Wyomia Tyus, United States,"Mexico City, Mexico",1968
+Womens 100m,time,11.07,Renate Stecher, East Germany,"Munich, West Germany",1972
+Womens 100m,time,11.04,Inge Helten, West Germany,"Fürth, West Germany",1976
+Womens 100m,time,11.01,Annegret Richter, West Germany,"Montreal, Canada",1976
+Womens 100m,time,10.88,Marlies Oelsner, East Germany,"Dresden, East Germany",1977
+Womens 100m,time,10.88,Marlies Göhr, East Germany,"Karl-Marx-Stadt, East Germany",1982
+Womens 100m,time,10.81,Marlies Göhr, East Germany,"Berlin, East Germany",1983
+Womens 100m,time,10.79,Evelyn Ashford, United States,"US Air Force Academy, United States",1983
+Womens 100m,time,10.76,Evelyn Ashford, United States,"Zürich, Switzerland",1984
+Womens 100m,time,10.49,Florence Griffith-Joyner, United States,"Indianapolis, United States",1988
+Mens 800m,time,111.9, Ted Meredith,USA,"Stockholm, Sweden",1912
+Mens 800m,time,111.6, Otto Peltzer,GER,"London, United Kingdom",1926
+Mens 800m,time,110.6, Sera Martin,FRA,"Paris, France",1928
+Mens 800m,time,109.8, Tommy Hampson,GBR,"Los Angeles, USA",1932
+Mens 800m,time,109.8, Ben Eastman,USA,"Princeton, USA",1934
+Mens 800m,time,109.7, Glenn Cunningham,USA,"Stockholm, Sweden",1936
+Mens 800m,time,109.6, Elroy Robinson,USA,"New York, USA",1937
+Mens 800m,time,108.4, Sydney Wooderson,GBR,"Motspur Park, United Kingdom",1938
+Mens 800m,time,106.6, Rudolf Harbig,GER,"Milan, Italy",1939
+Mens 800m,time,105.7, Roger Moens,BEL,"Oslo, Norway",1955
+Mens 800m,time,104.3, Peter Snell,NZL,"Christchurch, New Zealand",1962
+Mens 800m,time,104.3, Ralph Doubell,AUS,"Mexico City, Mexico",1968
+Mens 800m,time,104.3, Dave Wottle,USA,"Eugene, USA",1972
+Mens 800m,time,103.7, Marcello Fiasconaro,ITA,"Milan, Italy",1973
+Mens 800m,time,103.5, Alberto Juantorena,CUB,"Montreal, Canada",1976
+Mens 800m,time,103.4, Alberto Juantorena,CUB,"Sofia, Bulgaria",1977
+Mens 800m,time,102.4, Sebastian Coe,GBR,"Oslo, Norway",1979
+Mens 800m,time,101.7, Sebastian Coe,GBR,"Florence, Italy",1981
+Mens 800m,time,101.7, Wilson Kipketer,DEN,"Stockholm, Sweden",1997
+Mens 800m,time,101.2, Wilson Kipketer,DEN,"Zürich, Switzerland",1997
+Mens 800m,time,101.1, Wilson Kipketer,DEN,"Cologne, Germany",1997
+Mens 800m,time,101.1, David Rudisha,KEN,"Berlin, Germany",2010
+Mens 800m,time,101, David Rudisha,KEN,"Rieti, Italy",2010
+Mens 800m,time,100.9, David Rudisha,KEN,"London, United Kingdom",2012
+Womens 800m,time,150.4, Georgette Lenoir,FRA,"Paris, France",1922
+Womens 800m,time,146.6, Mary Lines,GBR,"London, United Kingdom",1922
+Womens 800m,time,143.8, Lina Radke,GER,"Breslau, Germany",1927
+Womens 800m,time,140.4, Inga Gentzel,SWE,"Stockholm, Sweden",1928
+Womens 800m,time,139.6, Lina Radke ,GER,"Brieg, Poland",1928
+Womens 800m,time,136.8, Lina Radke,GER,"Amsterdam, Netherlands",1928
+Womens 800m,time,135.9, Anna Larsson,SWE,"Stockholm, Sweden",1944
+Womens 800m,time,134.8, Anna Larsson,SWE,"Hälsingborg, Sweden",1945
+Womens 800m,time,133.8, Anna Larsson ,SWE,"Stockholm, Sweden",1945
+Womens 800m,time,133, Yevdokia Vasilyeva,URS,"Moscow, Soviet Union",1950
+Womens 800m,time,132.2, Valentina Pomogayeva,URS,"Moscow, Soviet Union",1951
+Womens 800m,time,132, Nina Otkalenko,URS,"Minsk, Soviet Union",1951
+Womens 800m,time,128.5, Nina Otkalenko,URS,"Kiev, Soviet Union",1952
+Womens 800m,time,127.3, Nina Otkalenko,URS,"Moscow, Soviet Union",1953
+Womens 800m,time,126.6, Nina Otkalenko,URS,"Kiev, Soviet Union",1954
+Womens 800m,time,125, Nina Otkalenko,URS,"Zagreb, Yugoslavia",1955
+Womens 800m,time,124.3, Lyudmila Shevtsova,URS,"Moscow, Soviet Union",1960
+Womens 800m,time,124.3, Lyudmila Shevtsova,URS,"Rome, Italy",1960
+Womens 800m,time,121.2, Dixie Willis,AUS,"Perth, Australia",1962
+Womens 800m,time,121.1, Ann Packer,GBR,"Tokyo, Japan",1964
+Womens 800m,time,121, Judy Pollock,AUS,"Helsinki, Finland",1967
+Womens 800m,time,120.5, Vera Nikolic,YUG,"London, United Kingdom",1968
+Womens 800m,time,118.5, Hildegard Falck,FRG,"Stuttgart, Germany",1971
+Womens 800m,time,117.5, Svetla Zlateva,BUL,"Athens, Greece",1973
+Womens 800m,time,116, Valentina Gerasimova,URS,"Kiev, Soviet Union",1976
+Womens 800m,time,114.9, Tatyana Kazankina,URS,"Montreal, Canada",1976
+Womens 800m,time,114.9, Nadezhda Olizarenko,URS,"Moscow, Soviet Union",1980
+Womens 800m,time,113.5, Nadezhda Olizarenko,URS,"Moscow, Soviet Union",1980
+Womens 800m,time,113.3, Jarmila Kratochvílová,TCH,"Munich, West Germany",1983
+Mens TripleJump,distance,15.52, Dan Ahearn ,USA,"New York, U.S.",1911
+Mens TripleJump,distance,15.52, Nick Winter ,AUS,"Paris, France",1924
+Mens TripleJump,distance,15.58, Mikio Oda ,JPN,"Tokyo, Japan",1931
+Mens TripleJump,distance,15.72, Chuhei Nambu ,JPN,"Los Angeles, U.S.",1932
+Mens TripleJump,distance,15.78, Jack Metcalfe ,AUS,"Sydney, Australia",1935
+Mens TripleJump,distance,16, Naoto Tajima ,JPN,"Berlin, Germany",1936
+Mens TripleJump,distance,16, Adhemar da Silva ,BRA,"São Paulo, Brazil",1950
+Mens TripleJump,distance,16.01, Adhemar da Silva ,BRA,"Rio de Janeiro, Brazil",1951
+Mens TripleJump,distance,16.12, Adhemar da Silva ,BRA,"Helsinki, Finland",1952
+Mens TripleJump,distance,16.22, Adhemar da Silva ,BRA,"Helsinki, Finland",1952
+Mens TripleJump,distance,16.23, Leonid Shcherbakov ,URS,"Moscow, Soviet Union",1953
+Mens TripleJump,distance,16.56, Adhemar da Silva ,BRA,"Mexico City, Mexico",1955
+Mens TripleJump,distance,16.59, Oleg Ryakhovskiy ,URS,"Moscow, Soviet Union",1958
+Mens TripleJump,distance,16.7, Oleg Fyodoseyev ,URS,"Nalchik, Soviet Union",1959
+Mens TripleJump,distance,17.03, Józef Szmidt ,POL,"Olsztyn, Poland",1960
+Mens TripleJump,distance,17.1, Giuseppe Gentile ,ITA,"Mexico City, Mexico",1968
+Mens TripleJump,distance,17.22, Giuseppe Gentile ,ITA,"Mexico City, Mexico",1968
+Mens TripleJump,distance,17.23, Viktor Sanyeyev ,URS,"Mexico City, Mexico",1968
+Mens TripleJump,distance,17.27, Nelson Prudêncio ,BRA,"Mexico City, Mexico",1968
+Mens TripleJump,distance,17.39, Viktor Sanyeyev ,URS,"Mexico City, Mexico",1968
+Mens TripleJump,distance,17.4, Pedro Pérez ,CUB,"Cali, Colombia",1971
+Mens TripleJump,distance,17.44, Viktor Sanyeyev ,URS,"Sukhumi, Soviet Union",1972
+Mens TripleJump,distance,17.89, João Carlos de Oliveira ,BRA,"Mexico City, Mexico",1975
+Mens TripleJump,distance,17.97, Willie Banks ,USA,"Indianapolis, U.S.",1985
+Mens TripleJump,distance,18.29, Jonathan Edwards ,GBR,"Gothenburg, Sweden",1995
+Mens Mile,time,254.4,John Paul Jones, United States,"Allston, Mass.",1913
+Mens Mile,time,252.6,Norman Taber, United States,"Allston, Mass.",1915
+Mens Mile,time,250.4,Paavo Nurmi, Finland,Stockholm,1923
+Mens Mile,time,249.2,Jules Ladoumègue, France,Paris,1931
+Mens Mile,time,247.6,Jack Lovelock, New Zealand,"Princeton, N.J.",1933
+Mens Mile,time,246.8,Glenn Cunningham, United States,"Princeton, N.J.",1934
+Mens Mile,time,246.4,Sydney Wooderson, United Kingdom,Motspur Park,1937
+Mens Mile,time,246.2,Gunder Hägg, Sweden,Göteborg,1942
+Mens Mile,time,246.2,Arne Andersson, Sweden,Stockholm,1942
+Mens Mile,time,244.6,Gunder Hägg, Sweden,Stockholm,1942
+Mens Mile,time,242.6,Arne Andersson, Sweden,Göteborg,1943
+Mens Mile,time,241.6,Arne Andersson, Sweden,Malmö,1944
+Mens Mile,time,241.4,Gunder Hägg, Sweden,Malmö,1945
+Mens Mile,time,239.4,Roger Bannister, United Kingdom,Oxford,1954
+Mens Mile,time,238,John Landy, Australia,Turku,1954
+Mens Mile,time,237.2,Derek Ibbotson, United Kingdom,London,1957
+Mens Mile,time,234.5,Herb Elliott, Australia,"Santry, Dublin",1958
+Mens Mile,time,234.4,Peter Snell, New Zealand,Wanganui,1962
+Mens Mile,time,234.1,Peter Snell, New Zealand,Auckland,1964
+Mens Mile,time,233.6,Michel Jazy, France,Rennes,1965
+Mens Mile,time,231.3,Jim Ryun, United States,"Berkeley, Cal.",1966
+Mens Mile,time,231.1,Jim Ryun, United States,"Bakersfield, Cal.",1967
+Mens Mile,time,231,Filbert Bayi, Tanzania,Kingston,1975
+Mens Mile,time,229.4,John Walker, New Zealand,Göteborg,1975
+Mens Mile,time,229,Sebastian Coe, United Kingdom,Oslo,1979
+Mens Mile,time,228.8,Steve Ovett, United Kingdom,Oslo,1980
+Mens Mile,time,228.5,Sebastian Coe, United Kingdom,Zürich,1981
+Mens Mile,time,228.4,Steve Ovett, United Kingdom,Koblenz,1981
+Mens Mile,time,227.3,Sebastian Coe, United Kingdom,Bruxelles,1981
+Mens Mile,time,226.3,Steve Cram, United Kingdom,Oslo,1985
+Mens Mile,time,224.4,Noureddine Morceli, Algeria,Rieti,1993
+Mens Mile,time,223.1,Hicham El Guerrouj, Morocco,Rome,1999
+Womens Mile,time,277,Anne Rosemary Smith, United Kingdom,London,1967
+Womens Mile,time,276.8,Maria Gommers, Netherlands,Leicester,1969
+Womens Mile,time,275.3,Ellen Tittel, West Germany,Sittard,1971
+Womens Mile,time,269.5,Paola Pigni, Italy,Viareggio,1973
+Womens Mile,time,263.8,Natalia Marasescu, Romania,Bucharest,1977
+Womens Mile,time,262.1,Natalia Marasescu, Romania,Auckland,1979
+Womens Mile,time,261.7,Mary Slaney, United States,Auckland,1980
+Womens Mile,time,260.9,Lyudmila Veselkova, Soviet Union,Bologna,1981
+Womens Mile,time,258.1,Mary Slaney, United States,Paris,1982
+Womens Mile,time,257.4,Maricica Puic?, Romania,Rieti,1982
+Womens Mile,time,256.7,Mary Slaney, United States,Zürich,1985
+Womens Mile,time,255.6,Paula Ivan, Romania,Nice,1989
+Womens Mile,time,252.6,Svetlana Masterkova, Russia,Zürich,1996
+Mens Polevault,distance,4.78,Robert Gutowski, United States,"Palo Alto, U.S.",1957
+Mens Polevault,distance,4.8,Don Bragg, United States,"Palo Alto, U.S.",1960
+Mens Polevault,distance,4.83,George Davies, United States,"Boulder, U.S.",1961
+Mens Polevault,distance,4.89,John Uelses, United States,"Santa Barbara, U.S.",1962
+Mens Polevault,distance,4.93,Dave Tork, United States,"Walnut, U.S.",1962
+Mens Polevault,distance,4.94,Pentti Nikula, Finland,"Kauhava, Finland",1962
+Mens Polevault,distance,5,Brian Sternberg, United States,"Philadelphia, U.S.",1963
+Mens Polevault,distance,5.08,Brian Sternberg, United States,Compton,1963
+Mens Polevault,distance,5.13,John Pennel, United States,"London, England",1963
+Mens Polevault,distance,5.2,John Pennel, United States,"Coral Gables, U.S.",1963
+Mens Polevault,distance,5.23,Fred Hansen, United States,"San Diego, U.S.",1964
+Mens Polevault,distance,5.28,Fred Hansen, United States,"Los Angeles, U.S.",1964
+Mens Polevault,distance,5.32,Bob Seagren, United States,"Fresno, U.S.",1966
+Mens Polevault,distance,5.34,John Pennel, United States,"Los Angeles, U.S.",1966
+Mens Polevault,distance,5.36,Bob Seagren, United States,"San Diego, U.S.",1967
+Mens Polevault,distance,5.38,Paul Wilson, United States,"Bakersfield, U.S.",1967
+Mens Polevault,distance,5.41,Bob Seagren, United States,"Lake Tahoe, U.S.",1968
+Mens Polevault,distance,5.44,John Pennel, United States,"Sacramento, U.S.",1969
+Mens Polevault,distance,5.45,Wolfgang Nordwig, East Germany,"Berlin, Germany",1970
+Mens Polevault,distance,5.46,Wolfgang Nordwig, East Germany,"Turin, Italy",1970
+Mens Polevault,distance,5.49,Christos Papanikolaou, Greece,"Athens, Greece",1970
+Mens Polevault,distance,5.51,Kjell Isaksson, Sweden,"Austin, U.S.",1972
+Mens Polevault,distance,5.54,Kjell Isaksson, Sweden,"Los Angeles, U.S.",1972
+Mens Polevault,distance,5.55,Kjell Isaksson, Sweden,"Helsingborg, Sweden",1972
+Mens Polevault,distance,5.63,Bob Seagren, United States,"Eugene, U.S.",1972
+Mens Polevault,distance,5.65,David Roberts, United States,"Gainesville, U.S.",1975
+Mens Polevault,distance,5.67,Earl Bell, United States,"Wichita, U.S.",1976
+Mens Polevault,distance,5.7,David Roberts, United States,"Eugene, U.S.",1976
+Mens Polevault,distance,5.72,W?adys?aw Kozakiewicz, Poland,"Milan, Italy",1980
+Mens Polevault,distance,5.75,Thierry Vigneron, France,"Paris, France",1980
+Mens Polevault,distance,5.75,Thierry Vigneron, France,"Lille, France",1980
+Mens Polevault,distance,5.77,Philippe Houvion, France,"Paris, France",1980
+Mens Polevault,distance,5.78,W?adys?aw Kozakiewicz, Poland,"Moscow, Soviet Union",1980
+Mens Polevault,distance,5.8,Thierry Vigneron, France,"Mâcon, France",1981
+Mens Polevault,distance,5.81,Vladimir Polyakov, Soviet Union,"Tbilisi, Georgia",1981
+Mens Polevault,distance,5.82,Pierre Quinon, France,"Cologne, Germany",1983
+Mens Polevault,distance,5.83,Thierry Vigneron, France,"Rome, Italy",1983
+Mens Polevault,distance,5.85,Sergey Bubka, Soviet Union,"Bratislava, Czechoslovakia",1984
+Mens Polevault,distance,5.88,Sergey Bubka, Soviet Union,"Paris, France",1984
+Mens Polevault,distance,5.9,Sergey Bubka, Soviet Union,"London, England",1984
+Mens Polevault,distance,5.91,Thierry Vigneron, France,"Rome, Italy",1984
+Mens Polevault,distance,5.94,Sergey Bubka, Soviet Union,"Rome, Italy",1984
+Mens Polevault,distance,6,Sergey Bubka, Soviet Union,"Paris, France",1985
+Mens Polevault,distance,6.01,Sergey Bubka, Soviet Union,"Moscow, Soviet Union",1986
+Mens Polevault,distance,6.03,Sergey Bubka, Soviet Union,"Prague, Czechoslovakia",1987
+Mens Polevault,distance,6.05,Sergey Bubka, Soviet Union,"Bratislava, Czechoslovakia",1988
+Mens Polevault,distance,6.06,Sergey Bubka, Soviet Union,"Nice, France",1988
+Mens Polevault,distance,6.07,Sergey Bubka, Soviet Union,"Shizuoka, Japan",1991
+Mens Polevault,distance,6.08,Sergey Bubka, Soviet Union,"Moscow, Soviet Union",1991
+Mens Polevault,distance,6.09,Sergey Bubka, Soviet Union,"Formia, Italy",1991
+Mens Polevault,distance,6.1,Sergey Bubka, Soviet Union,"Malmö, Sweden",1991
+Mens Polevault,distance,6.11,Sergey Bubka, Ukraine,"Dijon, France",1992
+Mens Polevault,distance,6.12,Sergey Bubka, Ukraine,"Padua, Italy",1992
+Mens Polevault,distance,6.13,Sergey Bubka, Ukraine,"Tokyo, Japan",1992
+Mens Polevault,distance,6.14,Sergey Bubka, Ukraine,"Sestriere, Italy",1994
+Mens Shotput,distance,17.68, Charlie Fonville ,USA,"Lawrence, U.S.",1948
+Mens Shotput,distance,17.79, Jim Fuchs ,USA,"Oslo, Norway",1949
+Mens Shotput,distance,17.82, Jim Fuchs ,USA,"Los Angeles, U.S.",1950
+Mens Shotput,distance,17.9, Jim Fuchs ,USA,"Visby, Sweden",1950
+Mens Shotput,distance,17.95, Jim Fuchs ,USA,"Eskilstuna, Sweden",1950
+Mens Shotput,distance,18, Parry O'Brien ,USA,"Fresno, U.S.",1953
+Mens Shotput,distance,18.04, Parry O'Brien ,USA,"Compton, U.S.",1953
+Mens Shotput,distance,18.42, Parry O'Brien ,USA,"Los Angeles, U.S.",1954
+Mens Shotput,distance,18.43, Parry O'Brien ,USA,"Los Angeles, U.S.",1954
+Mens Shotput,distance,18.54, Parry O'Brien ,USA,"Los Angeles, U.S.",1954
+Mens Shotput,distance,18.62, Parry O'Brien ,USA,"Salt Lake City, U.S.",1956
+Mens Shotput,distance,18.69, Parry O'Brien ,USA,"Los Angeles, U.S.",1956
+Mens Shotput,distance,19.06, Parry O'Brien ,USA,"Eugene, U.S.",1956
+Mens Shotput,distance,19.25, Parry O'Brien ,USA,"Los Angeles, U.S.",1956
+Mens Shotput,distance,19.25, Dallas Long ,USA,"Santa Barbara, U.S.",1959
+Mens Shotput,distance,19.3, Parry O'Brien ,USA,"Albuquerque, U.S.",1959
+Mens Shotput,distance,19.38, Dallas Long ,USA,"Los Angeles, U.S.",1960
+Mens Shotput,distance,19.45, Bill Nieder ,USA,"Palo Alto, U.S.",1960
+Mens Shotput,distance,19.67, Dallas Long ,USA,"Los Angeles, U.S.",1960
+Mens Shotput,distance,19.99, Bill Nieder ,USA,"Austin, U.S.",1960
+Mens Shotput,distance,20.06, Bill Nieder ,USA,"Walnut, U.S.",1960
+Mens Shotput,distance,20.08, Dallas Long ,USA,"Los Angeles, U.S.",1962
+Mens Shotput,distance,20.1, Dallas Long ,USA,"Los Angeles, U.S.",1964
+Mens Shotput,distance,20.2, Dallas Long ,USA,"Los Angeles, U.S.",1964
+Mens Shotput,distance,20.68, Dallas Long ,USA,"Los Angeles, U.S.",1964
+Mens Shotput,distance,21.52, Randy Matson ,USA,"College Station, U.S.",1965
+Mens Shotput,distance,21.78, Randy Matson ,USA,"College Station, U.S.",1967
+Mens Shotput,distance,21.82, Al Feuerbach ,USA,"San Jose, U.S.",1973
+Mens Shotput,distance,21.85, Terry Albritton ,USA,"Honolulu, Hawaii, U.S.",1976
+Mens Shotput,distance,22, Aleksandr Baryshnikov ,URS,"Paris, France",1976
+Mens Shotput,distance,22.15, Udo Beyer ,GDR,"Gothenburg, Sweden",1978
+Mens Shotput,distance,22.22, Udo Beyer ,GDR,"Los Angeles, U.S.",1983
+Mens Shotput,distance,22.62, Ulf Timmermann ,GDR,"Berlin, Germany",1985
+Mens Shotput,distance,22.64, Udo Beyer ,GDR,"Berlin, Germany",1986
+Mens Shotput,distance,22.72, Alessandro Andrei ,ITA,"Viareggio, Italy",1987
+Mens Shotput,distance,22.84, Alessandro Andrei ,ITA,"Viareggio, Italy",1987
+Mens Shotput,distance,22.91, Alessandro Andrei ,ITA,"Viareggio, Italy",1987
+Mens Shotput,distance,23.06, Ulf Timmermann ,GDR,"Chania, Greece",1988
+Mens Shotput,distance,23.12, Randy Barnes ,USA,"Los Angeles, U.S.",1990
+Womens Shotput,distance,14.59, Tatyana Sevryukova ,URS,"Moscow, Soviet Union",1948
+Womens Shotput,distance,14.86, Klavdia Tochonova ,URS,"Tbilisi, Soviet Union",1949
+Womens Shotput,distance,15.02, Anna Andreeva ,URS,"Ploie?ti, Romania",1950
+Womens Shotput,distance,15.28, Galina Zybina ,URS,"Helsinki, Finland",1952
+Womens Shotput,distance,15.37, Galina Zybina ,URS,"Frunze, Soviet Union",1952
+Womens Shotput,distance,15.42, Galina Zybina ,URS,"Frunze, Soviet Union",1952
+Womens Shotput,distance,16.2, Galina Zybina ,URS,"Malmö, Sweden",1953
+Womens Shotput,distance,16.28, Galina Zybina ,URS,"Kiev, Soviet Union",1954
+Womens Shotput,distance,16.28, Galina Zybina ,URS,"Leningrad, Soviet Union",1955
+Womens Shotput,distance,16.67, Galina Zybina ,URS,"Tbilisi, Soviet Union",1955
+Womens Shotput,distance,16.76, Galina Zybina ,URS,"Tashkent, Soviet Union",1956
+Womens Shotput,distance,17.25, Tamara Press ,URS,"Nalchik, Soviet Union",1959
+Womens Shotput,distance,17.42, Tamara Press ,URS,"Moscow, Soviet Union",1960
+Womens Shotput,distance,17.78, Tamara Press ,URS,"Moscow, Soviet Union",1960
+Womens Shotput,distance,18.55, Tamara Press ,URS,"Leipzig, East Germany",1962
+Womens Shotput,distance,18.55, Tamara Press ,URS,"Beograd, Yugoslavia",1962
+Womens Shotput,distance,18.59, Tamara Press ,URS,"Kassel, West Germany",1965
+Womens Shotput,distance,18.67, Nadezhda Chizhova ,URS,"Sochi, Soviet Union",1968
+Womens Shotput,distance,18.87, Margitta Gummel ,GDR,"Frankfurt (Oder), East Germany",1968
+Womens Shotput,distance,19.07, Margitta Gummel ,GDR,"Mexico City, Mexico",1968
+Womens Shotput,distance,19.61, Margitta Gummel ,GDR,"Mexico City, Mexico",1968
+Womens Shotput,distance,19.72, Nadezhda Chizhova ,URS,"Moscow, Soviet Union",1969
+Womens Shotput,distance,20.09, Nadezhda Chizhova ,URS,"Chorzów, Poland",1969
+Womens Shotput,distance,20.1, Margitta Gummel ,GDR,"East Berlin, East Germany",1969
+Womens Shotput,distance,20.1, Nadezhda Chizhova ,URS,"Athens, Greece",1969
+Womens Shotput,distance,20.43, Nadezhda Chizhova ,URS,"Athens, Greece",1969
+Womens Shotput,distance,20.43, Nadezhda Chizhova ,URS,"Moscow, Soviet Union",1971
+Womens Shotput,distance,20.63, Nadezhda Chizhova ,URS,"Sochi, Soviet Union",1972
+Womens Shotput,distance,21.03, Nadezhda Chizhova ,URS,"Munich, West Germany",1972
+Womens Shotput,distance,21.2, Nadezhda Chizhova ,URS,"Lvov, Soviet Union",1973
+Womens Shotput,distance,21.6, Marianne Adam ,GDR,"East Berlin, East Germany",1975
+Womens Shotput,distance,21.67, Marianne Adam ,GDR,"Karl-Marx-Stadt, East Germany",1976
+Womens Shotput,distance,21.87, Ivanka Khristova ,BUL,"Belmeken, Bulgaria",1976
+Womens Shotput,distance,21.89, Ivanka Khristova ,BUL,"Belmeken, Bulgaria",1976
+Womens Shotput,distance,21.99, Helena Fibingerová ,TCH,"Opava, Czechoslovakia",1976
+Womens Shotput,distance,22.32, Helena Fibingerová ,TCH,"Nitra, Czechoslovakia",1977
+Womens Shotput,distance,22.36, Ilona Slupianek ,GDR,"Celje, Yugoslavia",1980
+Womens Shotput,distance,22.45, Ilona Slupianek ,GDR,"Potsdam, East Germany",1980
+Womens Shotput,distance,22.53, Natalya Lisovskaya ,URS,"Sochi, Soviet Union",1984
+Womens Shotput,distance,22.6, Natalya Lisovskaya ,URS,"Moscow, Soviet Union",1987
+Womens Shotput,distance,22.63, Natalya Lisovskaya ,URS,"Moscow, Soviet Union",1987

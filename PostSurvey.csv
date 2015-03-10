@@ -1,0 +1,215 @@
+ID,gender,age,classification,happy,sleep_Tues,sleep_Sat,hair_color,exclusive,greek,smoke,talking_min,texts_sent,live_campus,roomates,austin,commute,UT_sport,major,hw_hours_HS,hw_hours_college,post_happy,post_exclusive,post_smoke,post_talking_min,post_text_sent
+1,Female,19,Sophomore,89,8,13,brown,1,no,no,20,100,no,2,9,I take the bus.,no,Nutrition,0,3,80,1,no,5,50
+2,Female,19,Sophomore,90,7,10,black,2,yes,no,20,50,no,3,10,I walk.,no,Human Development,2,8,90,1,no,30,60
+3,Female,18,Freshman,60,9,9,brown,1,no,no,30,121,yes,1,8,I take the bus.,no,Biology,1,6,86,1,no,105,100
+4,Female,19,Sophomore,100,8.5,8.5,black,10,no,no,300,1000,no,3,8,I walk.,yes,Nursing,0,5,50,10,no,36,250
+5,Female,18,Freshman,85,8,10,black,10,no,no,420,600,yes,1,8,I walk.,no,Biology,2,31,85,10,no,120,1500
+6,Female,19,Sophomore,90,6,10,brown,10,no,no,3,100,no,3,10,I take the bus.,yes,Exercise Science,10,20,80,10,no,40,120
+7,Female,18,Freshman,80,5,9,brown,5,no,no,15,500,yes,1,10,I walk.,no,Nursing,5,10,60,8,no,1000,900
+8,Male,18,Freshman,75,8,10,black,6,no,no,3,60,yes,1,8,I walk.,yes,Government,1,6,75,6,no,3,50
+9,Female,18,Freshman,97,8,9,blond,6,yes,no,7,45,no,1,10,I walk.,no,Undeclared,10,20,97,5,no,10,110
+10,Female,18,Freshman,75,10,8,brown,10,no,no,350,400,yes,1,7,I walk.,no,Undeclared,8,12,75,10,no,100,100
+11,Female,19,Sophomore,90,8,6,brown,5,no,no,4,200,no,2,6,I bike.,no,Nursing,2,10,90,1,no,120,100
+12,Female,18,Freshman,90,8,10,brown,4,no,no,20,200,yes,1,9,I walk.,no,Undeclared,5,15,87,1,no,10,1200
+13,Female,18,Freshman,95,4,6,brown,10,no,no,300,200,yes,1,7,I walk.,no,Biology,4,10,80,7,no,30,200
+14,Female,18,Freshman,80,8,10,brown,10,no,no,5,300,yes,1,7,I walk.,no,Undergraduate Studies,10,20,80,10,no,20,1000
+15,Male,19,Sophomore,85,10,10,black,2,no,no,4,10,no,3,8,I walk.,no,Human Ecology,6,12,85,4,no,5,75
+16,Male,18,Freshman,85,6.5,8.5,brown,3,no,no,60,300,yes,1,9,I walk.,no,Neuroscience,8,11,87,5,no,3,100
+17,Female,20,Junior,70,8,7,brown,3,no,no,90,50,no,3,8,I take the bus.,yes,Psychology,1,9,80,1,no,20,25
+18,Male,18,Freshman,75,6,6,black,1,no,yes,50,150,yes,1,7,I drive.,no,Undeclared,3,10,90,1,yes,50,100
+19,Female,18,Freshman,75,6.5,7,black,1,no,no,20,30,yes,1,7,I walk.,no,Biology,5,10,65,1,no,20,10
+20,Female,18,Freshman,70,7,8,brown,2,no,no,180,20,yes,3,8,I walk.,yes,Psychology,5,10,70,2,no,120,40
+21,Female,18,Freshman,95,5,5,blond,10,no,only socially,200,400,no,1,10,I take the bus.,no,Psychology,5,10,95,8,only socially,115,50
+22,Female,20,Junior,90,6.5,9,brown,2,no,no,10,27,no,0,9,I drive.,no,Undeclared,21,35,75,1,no,7,45
+23,Female,17,Freshman,75,5.5,9,blond,2,no,only socially,100,500,yes,1,8,I walk.,no,Nursing,15,9,75,3,yes,30,200
+24,Male,19,Sophomore,90,6,6,black,7,no,no,5,300,no,1,8,I take the bus.,yes,Undeclared,2,10,95,3,no,10,300
+25,Female,18,Freshman,90,4,5,black,6,no,no,120,300,yes,1,10,I walk.,no,Nursing,7,20,90,1,no,40,260
+26,Female,18,Freshman,80,9,5,blond,1,no,no,20,500,yes,1,10,I walk.,no,Undeclared,1,8,85,3,no,30,50
+27,Female,18,Freshman,75,8,9,brown,5,no,no,30,500,yes,1,4,I walk.,no,Undeclared,5,25,70,3,no,60,300
+28,Female,21,Junior,80,8,10,blond,10,yes,no,10,200,no,1,10,I walk.,no,Social Work,9,20,70,10,only socially,15,100
+29,Female,19,Freshman,85,8,6,brown,1,no,yes,9,500,yes,1,10,I walk.,no,Undeclared,1,20,80,1,yes,20,250
+30,Female,19,Freshman,75,6,7,brown,5,no,no,5,50,yes,1,9,I walk.,no,Nursing,3,30,85,2,no,40,60
+31,Female,19,Sophomore,90,8,8,blond,10,no,only socially,15,300,no,2,9,I walk.,no,Pre-Nursing,10,30,90,10,only socially,10,100
+32,Female,19,Sophomore,65,7,7,brown,10,no,no,15,30,no,3,8,I take the bus.,no,Nursing,5,15,50,10,no,10,20
+33,Female,18,Freshman,80,8,10,brown,10,no,no,45,100,no,0,8,I walk.,no,Undeclared,4,12,70,10,no,30,150
+34,Female,22,Junior,90,5,9,brown,4,no,no,30,500,no,3,8,I take the bus.,yes,Nutrition,2,6,80,6,no,40,400
+35,Female,19,Sophomore,80,7,8,brown,5,no,no,60,40,no,3,9,I take the bus.,no,Women's and Genders Studies,10,15,80,1,no,80,40
+36,Male,20,Junior,90,4,9,brown,5,no,no,90,120,no,1,7,I drive.,no,Psychology,1,24,95,0,no,42,440
+37,Female,19,Sophomore,89,7.25,4,brown,0,no,no,20,200,no,4,8,I drive.,no,Human Development,2,8,89,10,no,120,300
+38,Female,20,Sophomore,90,5,11,black,10,no,no,60,40,no,0,10,I have another form of transportation.,no,Textiles and Apparel,50,40,90,10,no,1000,50
+39,Female,17,Freshman,100,7,8,brown,1,no,no,300,100,no,4,10,I walk.,no,Pre-Nursing,4,10,90,10,no,120,100
+40,Female,20,Junior,85,6,7,brown,5,no,no,105,150,no,2,8,I walk.,no,Human Development,8,45,80,5,no,90,35
+41,Female,18,Freshman,75,7,6,brown,5,yes,no,60,300,no,1,8,I walk.,no,Textiles and Apparel,3,30,80,7,no,30,300
+42,Female,18,Freshman,65,5,9,brown,5,no,no,120,200,yes,1,8,I walk.,no,Psychology,28,49,70,4,no,120,100
+43,Female,20,Junior,90,7,8,brown,10,yes,no,90,400,no,1,10,I walk.,yes,Nutrition,3,5,90,10,no,60,100
+44,Male,20,Junior,100,6,14,black,7,no,no,3,100,no,5,8,I bike.,no,Nutrition,1,14,90,6,no,60,150
+45,Female,18,Freshman,85,7,8.75,black,3,no,no,7,20,yes,1,8,I walk.,no,Psychology,3,7,85,2,no,25,20
+46,Female,18,Freshman,80,6,5,black,10,no,no,180,300,yes,1,10,I walk.,no,Nursing,20,30,80,10,no,240,500
+47,Female,19,Freshman,85,7,7,brown,7,no,no,120,10,yes,1,8,I walk.,no,Biology,35,20,85,3,no,90,17
+48,Female,18,Sophomore,80,8,8,black,3,no,no,30,20,no,0,8,I get dropped off.,yes,Undeclared,2,5,70,3,no,20,20
+49,Female,19,Sophomore,80,5,10,brown,2,no,no,0,55,yes,1,9,I walk.,yes,Biology,10,25,80,2,no,0,43
+50,Male,19,Sophomore,75,5.5,8,brown,5,yes,no,20,50,no,3,9,I walk.,no,Biology,14,28,75,1,no,20,100
+51,Female,20,Junior,75,6,8,brown,3,no,no,0,8,no,3,6,I take the bus.,no,Kinesiology,2,12,60,1,no,15,50
+52,Female,19,Sophomore,50,5,8,brown,2,yes,yes,35,650,yes,1,5,I walk.,yes,Exercise Science,7,7,70,10,only socially,60,200
+53,Female,18,Freshman,95,7,9,brown,8,yes,only socially,120,87,no,2,9,I walk.,yes,Undeclared,20,15,95,10,only socially,45,120
+54,Female,20,Junior,60,5,7,brown,1,no,no,60,200,no,2,9,I take the bus.,no,Psychology,5,15,85,1,no,60,200
+55,Female,17,Freshman,50,7,8,black,1,no,no,2,200,yes,1,7,I walk.,no,Human Development,17,20,65,1,no,5,400
+56,Female,18,Freshman,90,3,8,black,1,no,no,60,100,yes,1,10,I walk.,no,Undergraduate Studies,5,15,95,1,no,90,100
+57,Female,20,Sophomore,90,8,8,blond,10,yes,no,20,1000,no,3,10,I walk.,no,Undeclared,10,40,80,0,no,60,100
+58,Female,19,Sophomore,80,7,8,brown,10,yes,no,60,115,no,7,10,I walk.,no,Nursing,6,20,80,10,no,65,415
+59,Female,18,Freshman,70,6.5,8.5,black,1,no,no,60,15,yes,1,2,I walk.,no,Psychology,8,12,60,1,no,50,15
+60,Female,21,Sophomore,80,7,9,brown,1,no,no,45,100,no,1,7,I drive.,no,Psychology,2,10,88,10,no,120,100
+61,Female,18,Freshman,95,5,6,black,5,no,no,45,20,yes,1,9,I walk.,no,Nursing,10,30,95,0,no,35,50
+62,Female,19,Freshman,80,6,7,brown,10,no,no,60,30,yes,3,10,I walk.,no,Nursing,5,30,80,10,no,15,50
+63,Female,18,Freshman,80,6,7,brown,3,no,no,10,50,yes,1,8,I walk.,yes,Undeclared,10,15,78,2,no,45,300
+64,Female,29,Sophomore,80,4,9,black,1,no,no,1,10,no,0,10,I drive.,no,Psychology,2,30,80,1,no,120,15
+65,Male,17,Freshman,80,7,5,black,10,yes,no,0,500,yes,1,10,I walk.,yes,Nursing,30,40,60,1,no,10,2000
+66,Female,19,Sophomore,76,6,13,black,10,no,no,60,30,no,1,10,I drive.,no,Nursing,6,15,80,10,no,60,100
+67,Female,18,Freshman,50,6,10,brown,10,no,no,180,210,yes,1,10,I walk.,no,Nursing,20,6,70,10,no,1,150
+68,Male,19,Sophomore,75,6,10,black,4,yes,no,200,100,no,1,8,I take the bus.,no,Music Studies,5,21,40,1,no,240,150
+69,Female,18,Freshman,90,8,10,brown,3,no,no,24,90,yes,1,9,I walk.,yes,Nursing,20,40,85,1,no,90,200
+70,Female,18,Freshman,75,7,8,blond,2,no,no,60,20,yes,1,10,I walk.,no,Nursing,5,24,80,1,no,90,15
+71,Female,18,Freshman,75,4,8,black,1,no,no,60,40,yes,1,8,I walk.,yes,Nursing,8,40,50,1,no,45,100
+72,Male,20,Sophomore,70,8,8,black,5,no,no,15,500,no,0,9,I drive.,yes,Nursing,1,28,70,5,no,30,100
+73,Female,20,Sophomore,80,7,9,brown,10,yes,no,20,100,yes,1,8,I walk.,no,Nursing,5,20,70,10,no,20,100
+74,Female,20,Sophomore,85,8,7,blond,1,yes,no,50,50,no,3,9,I walk.,no,Business,4,10,76,3,no,30,40
+75,Female,18,Freshman,75,8.5,10,red,6,no,no,15,100,yes,1,9,I walk.,yes,Undeclared,3,15,85,1,no,15,200
+76,Female,18,Freshman,60,7,9,black,10,no,no,240,120,yes,1,7,I walk.,no,Pre-Pharmacy,10,7,70,10,no,300,100
+77,Female,19,Sophomore,85,5,8,brown,10,no,no,30,150,no,2,10,I walk.,no,Social Work,12,18,80,10,no,20,200
+78,Female,19,Sophomore,97,7.5,6,black,7,no,no,120,300,no,2,9,I walk.,no,Undeclared,8,15,95,5,no,65,150
+79,Female,18,Freshman,80,5,8,black,10,yes,no,11,200,yes,1,9,I walk.,no,Biology,5,10,80,10,no,1,200
+80,Female,19,Sophomore,70,7,7,blond,7,yes,no,30,100,no,0,7,I take the bus.,no,Undeclared,4,10,70,5,no,30,500
+81,Male,21,Sophomore,90,7,7,black,1,no,no,5,100,yes,1,10,I walk.,yes,Nursing,5,13,50,1,no,5,100
+82,Female,19,Sophomore,80,6.5,8,black,10,no,no,60,500,no,3,5,I walk.,no,Nutrition,4,12,75,10,no,60,150
+83,Female,18,Freshman,87,8,5,brown,1,no,no,3,30,yes,1,8,I walk.,no,Undeclared,2,20,75,0,no,2,47
+84,Female,18,Freshman,95,8,6,blond,3,yes,no,40,300,no,1,8,I walk.,no,Pre-Nursing,6,21,90,2,no,40,250
+85,Female,19,Sophomore,70,7,9,black,10,no,no,15,100,no,3,9,I take the bus.,yes,Neuroscience,6,30,80,6,no,30,40
+86,Female,18,Freshman,90,5,3,blond,2,yes,no,30,150,no,3,8,I walk.,no,Pre-Nursing,20,40,90,1,no,100,200
+87,Female,18,Freshman,85,5,9,brown,5,no,no,60,200,yes,1,8,I walk.,no,Human Development,1,3,80,2,no,30,100
+88,Female,18,Freshman,90,8,9,blond,1,no,no,2,20,yes,1,10,I walk.,yes,Nutrition,1,8,75,0,no,20,200
+89,Male,18,Freshman,90,7,8,black,1,yes,only socially,1,100,no,1,9,I walk.,no,Nursing,3,10,95,3,only socially,20,400
+90,Female,19,Sophomore,60,7,5,brown,7,no,only socially,30,75,no,3,7,I take the bus.,no,Nursing,2,10,60,1,only socially,30,30
+91,Female,20,Junior,80,8,10,black,1,no,no,30,200,yes,1,9,I walk.,no,Psychology,7,21,80,3,no,30,100
+92,Female,18,Freshman,25,6,8,brown,1,no,no,10,20,yes,1,7,I walk.,no,Plan II,6,20,25,1,no,15,15
+93,Female,19,Sophomore,90,5,9,brown,1,no,no,2,20,no,0,9,I walk.,yes,Psychology,15,25,85,1,no,120,100
+94,Female,20,Junior,80,6,9,brown,1,no,no,100,100,no,3,6,I take the bus.,no,Human Development,0.5,27,75,3,no,120,150
+95,Female,18,Freshman,97,6,12,brown,10,no,no,15,150,no,3,10,I walk.,no,Biology,0,20,85,10,no,20,250
+96,Female,18,Freshman,89,10,6,brown,10,no,no,120,2000,yes,1,10,I walk.,no,Undeclared,5,48,89,10,no,15,700
+97,Female,19,Sophomore,75,8,8,blond,1,yes,no,45,100,no,1,7,I take the bus.,no,Psychology,8,16,75,5,only socially,30,50
+98,Female,18,Freshman,95,6,8,blond,8,no,no,180,500,yes,1,9,I walk.,no,Nursing,20,30,97,10,no,60,2000
+99,Female,18,Freshman,65,9.5,11.5,brown,1,no,no,80,500,yes,1,9,I walk.,no,Undeclared,5,9,85,1,no,60,300
+100,Female,20,Junior,90,7,10,brown,3,yes,no,75,100,no,3,9,I walk.,no,Government,40,40,90,3,no,60,200
+101,Female,18,Freshman,80,9,9,brown,10,no,no,2,20,no,2,5,I take the bus.,no,Human Development,3,5,80,9,no,30,300
+102,Female,20,Junior,47,6,9,black,2,yes,no,40,75,no,2,10,I take the bus.,no,Pre-Pharmacy,40,21,54,1,no,25,99
+103,Male,20,Junior,85,5,5,brown,10,no,no,30,500,yes,0,10,I walk.,yes,Education,1,10,90,10,no,60,500
+104,Female,22,Other,70,7,7,black,1,no,no,5,50,no,5,9,I take the bus.,no,Nutrition,2,6,70,1,no,5,40
+105,Female,19,Sophomore,75,6,8,brown,3,yes,only socially,40,100,no,3,10,I walk.,yes,Corporate Communications,2,8,70,3,only socially,20,100
+106,Female,21,Senior,80,6,10,brown,10,no,no,15,100,no,3,10,I walk.,no,Nutrition,2,12,80,8,no,16,1500
+107,Male,18,Freshman,90,7,7,brown,5,no,no,30,100,yes,3,8,I walk.,no,Undeclared,5,15,95,3,no,30,250
+108,Female,20,Junior,50,5.5,6,black,1,no,no,60,100,no,3,6,I walk.,no,Nutrition,10,25,70,1,no,15,30
+109,Female,18,Freshman,84,7,5,brown,3,no,no,200,100,yes,1,10,I walk.,no,Psychology,10,30,92,2,no,70,200
+110,Male,18,Freshman,75,7,6,black,3,no,only socially,10,100,yes,1,7,I walk.,no,Undergraduate Studies,2,10,75,1,only socially,20,100
+111,Female,18,Freshman,90,5,5,blond,1,yes,no,8,50,yes,1,10,I drive.,no,Pre-Nursing,5,15,98,1,no,50,60
+112,Female,19,Sophomore,50,6,9,brown,10,no,no,30,300,no,1,7,I take the bus.,yes,Government,1,20,40,8,no,40,100
+113,Female,18,Freshman,58,5,7,brown,3,no,no,30,700,yes,1,7,I walk.,yes,Undergraduate Studies,8,30,80,8,no,20,600
+114,Female,21,Junior,85,6.5,8,black,5,no,no,15,50,no,0,8,I take the bus.,no,Psychology,7,21,75,10,no,5,30
+115,Female,18,Freshman,70,7,8,blond,10,yes,no,30,200,yes,1,10,I walk.,yes,Pre-Nursing,5,10,70,10,no,35,100
+116,Male,22,Junior,89,9,9,brown,7,no,no,35,1000,no,2,8,I walk.,no,Psychology,6,8,98,5,no,20,150
+117,Female,19,Sophomore,80,8,9,brown,2,yes,no,60,500,no,2,4,I walk.,no,Human Development,10,50,70,0,no,30,200
+118,Female,19,Freshman,70,7,8,brown,1,no,no,20,40,no,3,6,I walk.,no,Pre-Nursing,30,30,70,2,no,3,70
+119,Female,18,Freshman,79,8,8,brown,10,no,only socially,30,100,no,1,10,I take the bus.,no,Undeclared,3,20,70,10,yes,10,100
+120,Female,20,Freshman,60,6,10,red,1,no,no,45,100,no,0,9,I take the bus.,no,Psychology and Sociology,10,21,60,1,no,160,60
+121,Female,18,Freshman,90,8,10,brown,4,yes,no,30,200,no,1,10,I walk.,no,Pre-Nursing,7,30,85,2,no,30,300
+122,Female,19,Sophomore,85,5,8,black,1,no,no,60,100,no,3,10,I walk.,yes,Biochemistry,7,20,90,3,no,300,50
+123,Female,19,Sophomore,75,5.5,7,brown,5,no,no,20,240,no,1,8,I drive.,no,Biology,4,20,65,3,no,35,12
+124,Male,23,Senior,50,9,10,black,5,no,no,45,250,no,1,10,I take the bus.,no,Chemistry,10,30,50,1,no,50,200
+125,Female,25,Junior,30,7,6,black,10,no,no,69,4,yes,0,7,I walk.,no,Pre-Med,20,30,30,10,no,2,4
+126,Female,19,Freshman,70,6,9,brown,1,no,no,5,50,no,1,8,I walk.,no,Undergraduate Studies,5,30,70,1,no,5,20
+127,Female,19,Sophomore,90,7,9,black,1,no,no,50,500,yes,1,8,I walk.,no,Music Studies,60,60,98,1,no,100,100
+128,Female,18,Freshman,80,6,5,brown,0,no,no,19,100,yes,1,7,I bike.,no,Nutrition,3,20,70,1,no,2,50
+129,Female,19,Sophomore,75,8,8,black,10,no,no,300,20,no,3,7,I take the bus.,no,Undeclared,5,20,50,1,no,50,75
+130,Female,18,Freshman,92,8,7,blond,4,no,no,12,120,yes,1,9,I walk.,yes,Human Development,10,10,97,4,no,80,124
+131,Female,20,Junior,85,6,8,brown,6,no,no,3,300,no,4,10,I take the bus.,yes,Human Development,40,20,80,5,no,15,300
+132,Female,18,Freshman,90,7,10,brown,1,no,no,60,200,yes,1,10,I walk.,no,Undergraduate Studies,9,30,90,1,no,30,300
+133,Female,18,Freshman,50,7,9.5,brown,9,no,only socially,80,350,no,3,7,I walk.,no,Fashion Design,8,20,70,10,only socially,123,250
+134,Female,20,Sophomore,70,8,8,brown,1,no,no,20,10,no,3,5,I take the bus.,no,Exercise Science,5,15,75,1,no,30,150
+135,Female,18,Freshman,85,6,7,brown,8,no,no,30,400,no,3,8,I walk.,yes,Pre-Pharmacy,38,38,85,9,no,30,60
+136,Female,18,Freshman,75,7,10,blond,5,no,no,60,250,no,3,9,I walk.,no,Pre-Nursing,8,15,75,4,no,12,300
+137,Female,18,Freshman,80,7,9,brown,1,no,no,30,200,yes,1,7,I walk.,no,Undeclared,4,8,80,1,no,60,300
+138,Female,18,Freshman,60,6,10,brown,5,no,yes,30,20,yes,0,9,I walk.,no,Plan II,0,20,80,1,yes,0,78
+139,Female,18,Freshman,95,8,9,brown,10,no,no,30,200,yes,1,9,I walk.,yes,Health Promotion,10,15,90,10,no,30,200
+140,Female,19,Sophomore,70,8,8,brown,9,no,no,5,100,no,3,10,I walk.,no,Human Development,5,20,70,10,no,5,200
+141,Female,17,Freshman,60,6,4,black,5,no,no,15,70,no,1,9,I walk.,no,Nutrition,15,30,75,3,no,30,200
+142,Female,18,Freshman,90,8,10,black,10,no,no,120,30,yes,1,8,I walk.,no,Human Development,2,20,90,10,no,350,50
+143,Female,19,Sophomore,90,7,9,black,5,no,no,60,100,yes,3,9,I walk.,no,Psychology,20,40,90,5,no,120,200
+144,Female,19,Sophomore,80,7.5,8,blond,10,no,no,120,400,no,3,7,I take the bus.,no,Human Development,3,15,90,10,no,30,600
+145,Female,18,Freshman,90,8,8,blond,1,no,no,60,100,no,1,10,I walk.,yes,Undergraduate Studies,8,30,90,1,no,100,300
+146,Female,19,Sophomore,80,6,6,brown,2,no,no,60,30,no,1,9,I drive.,yes,Health Promotion,8,25,75,0,no,90,100
+147,Female,19,Sophomore,85,8,8,blond,10,no,no,10,150,no,1,8,I walk.,no,Human Development,10,13,80,10,no,45,800
+148,Male,18,Freshman,80,7,5,black,2,no,no,60,100,yes,1,10,I walk.,yes,Nursing,10,40,80,0,no,20,50
+149,Female,19,Sophomore,91,6.5,8,brown,2,no,no,1,200,no,4,10,I walk.,no,Human Development,10,20,65,5,no,15,100
+150,Female,19,Sophomore,65,7,9,blond,10,no,no,15,50,yes,1,9,I walk.,no,Biology,2,12,50,10,no,30,30
+151,Female,20,Junior,80,8,10,brown,3,yes,only socially,12,200,no,1,10,I walk.,no,Corporate Communications,10,20,88,3,only socially,15,140
+152,Female,21,Junior,70,7,8,black,5,no,no,1,5,no,3,8,I take the bus.,no,International Relations and Global Studies,7,20,40,1,no,15,50
+153,Female,19,Sophomore,80,7,9,brown,10,yes,no,30,250,no,1,8,I walk.,yes,Biology,10,5,75,10,no,40,300
+154,Female,18,Freshman,80,8,9,brown,10,yes,no,60,300,no,3,10,I walk.,yes,Pre-Nursing,7,10,75,1,no,10,500
+155,Female,19,Sophomore,95,6,8,blond,2,yes,no,45,200,no,4,9,I walk.,no,Social Work,5,12,80,1,no,45,200
+156,Female,18,Freshman,80,8,10,black,2,no,no,2,200,no,0,8,I drive.,no,Undergraduate Studies,10,50,40,3,no,10,10
+157,Female,19,Sophomore,78,6,7,black,1,no,no,180,12,no,3,5,I take the bus.,no,Pre-Nursing,8,25,83,1,no,92,4
+158,Female,26,Sophomore,75,7,7,black,1,no,no,2,60,no,0,7,I drive.,no,Pre-Nursing,16,30,75,1,no,60,20
+159,Female,19,Sophomore,70,6,7,black,3,yes,no,80,300,no,0,6,I have another form of transportation.,no,Biology,4,20,70,1,no,60,300
+160,Female,18,Freshman,95,9,7,brown,10,no,no,30,150,yes,1,6,I walk.,yes,Undeclared,2,10,90,10,no,45,500
+161,Female,18,Freshman,80,7,7,blond,1,yes,no,30,2000,no,3,9,I walk.,no,Nursing,5,15,80,1,no,30,2000
+162,Female,19,Sophomore,95,8,9,brown,2,no,no,120,60,no,0,7,I walk.,no,Biology,5,20,98,2,no,30,100
+163,Female,19,Freshman,50,6,9,blond,8,no,only socially,30,30,no,3,7,I walk.,no,Nutrition,15,6,75,8,no,60,500
+164,Female,19,Sophomore,85,6,5,brown,2,no,no,20,100,no,1,9,I walk.,no,Nutrition,3,8,90,1,no,20,200
+165,Female,18,Freshman,90,8,12,brown,6,yes,no,30,200,yes,1,8,I walk.,no,Nursing,18,28,75,1,no,120,500
+166,Female,19,Sophomore,80,5,7,black,2,no,no,5,25,no,0,9,I drive.,yes,Nutrition,15,20,85,3,no,30,150
+167,Female,19,Sophomore,90,8,7,brown,1,no,no,70,100,no,2,8,I walk.,no,Human Development,28,36,85,1,only socially,30,100
+168,Female,18,Freshman,95,8,9,blond,5,no,no,20,150,no,3,9,I walk.,yes,Nursing,10,27,95,6,no,20,100
+169,Female,19,Sophomore,85,7,7,brown,10,no,no,45,120,no,1,10,I take the bus.,no,Human Development,2,8,90,10,no,30,50
+170,Female,19,Sophomore,90,5,10,brown,10,no,only socially,300,1000,no,1,4,I drive.,yes,Psychology,2,6,85,10,no,480,1500
+171,Female,19,Sophomore,95,8,5,brown,10,no,no,60,1000,no,1,10,I take the bus.,no,Kinesiology,3,10,90,10,no,180,500
+172,Female,18,Freshman,88,6,7,blond,9,yes,no,120,100,yes,1,10,I walk.,yes,Undeclared,8,28,90,10,no,120,100
+173,Female,34,Freshman,80,3,5,black,1,no,no,30,10,no,3,5,I drive.,no,Medical Laboratory Science,20,40,80,1,no,15,8
+174,Male,19,Sophomore,85,7,7,black,3,no,no,120,200,no,0,8,I drive.,no,Human Development,10,15,80,1,no,120,100
+175,Female,18,Freshman,85,7,8,brown,8,yes,no,120,300,no,1,10,I walk.,no,Biology,2,30,90,9,no,30,500
+176,Female,19,Sophomore,50,4,3,brown,1,yes,no,30,20,no,1,5,I walk.,yes,International Relations and Global Studies,4,6,60,1,only socially,30,50
+177,Male,18,Freshman,85,4.5,8,brown,4,no,no,180,150,yes,1,10,I walk.,no,Chemistry,16,25,90,2,no,15,100
+178,Female,18,Freshman,52,7,8,black,1,no,no,45,350,yes,1,7,I walk.,no,Pre-Nursing,6,20,80,10,no,80,60
+179,Female,20,Sophomore,80,8,6,blond,10,yes,no,60,200,no,2,8.5,I walk.,no,Biology,5,15,85,10,no,75,200
+180,Female,19,Sophomore,80,5,6,brown,10,no,no,30,200,no,1,9,I take the bus.,no,Linguistics,1,5,70,10,no,60,100
+181,Female,18,Freshman,98,8,5.5,black,2,no,no,60,60,yes,3,10,I walk.,no,Undeclared,10,25,98,1,no,180,75
+182,Female,18,Freshman,95,6,9,blond,10,yes,no,60,50,no,3,8,I walk.,no,Pre-Pharmacy,2,20,90,2,no,60,100
+183,Male,19,Sophomore,80,8,8,black,9,no,no,70,80,yes,1,7,I walk.,yes,Human Development,4,12,87,6,no,120,60
+184,Female,20,Sophomore,95,8,6,blond,10,yes,no,120,200,no,3,10,I take the bus.,no,Textiles and Apparel,4,15,90,10,no,40,300
+185,Female,19,Sophomore,80,9,7,brown,7,yes,no,20,200,no,3,10,I walk.,no,Nursing,2,8,85,1,no,10,200
+186,Female,19,Sophomore,95,7,8,brown,1,no,no,20,50,no,3,10,I walk.,no,Nutrition,15,30,90,1,no,10,30
+187,Female,20,Junior,95,6,8,brown,5,no,no,60,10,no,3,8,I walk.,no,Human Development,20,40,90,2,no,30,20
+188,Female,18,Freshman,95,7.5,8.5,blond,2,no,no,45,300,yes,1,9,I walk.,yes,Pre-Nursing,8,18,94,1,no,65,250
+189,Female,18,Freshman,90,10,8,blond,10,no,no,60,100,no,3,1,I walk.,no,Pre-Nursing,5,20,90,10,no,30,100
+190,Female,18,Freshman,50,8,11,brown,3,no,no,300,50,yes,1,7,I bike.,no,Undeclared,10,40,15,5,no,120,200
+191,Female,20,Junior,80,7,9,blond,10,yes,no,80,1,no,2,8,I walk.,no,Nutrition,5,12,75,10,no,80,80
+192,Female,19,Freshman,90,6,5,brown,10,no,no,30,2000,yes,1,6,I drive.,no,Psychology,2,5,90,3,no,800,800
+193,Male,20,Junior,98,8,8,blond,1,no,no,45,1,yes,1,9,I drive.,no,Radio-Television-Film,2,6,95,1,no,25,2
+194,Female,21,Junior,95,7,8,brown,1,no,only socially,7,100,no,1,8,I drive.,no,Elementary Education,2,20,95,1,only socially,7,250
+195,Female,18,Freshman,50,8,10,brown,7,no,no,10,100,yes,1,9,I walk.,no,Human Ecology,5,15,60,2,no,60,75
+196,Female,17,Freshman,50,6.5,9,black,4,no,no,10,500,yes,1,10,I walk.,no,Pre-Nursing,20,20,65,3,no,10,400
+197,Female,20,Sophomore,85,6,7,brown,0,no,no,80,200,no,3,8,I take the bus.,no,Biology,1,5,90,1,no,110,100
+198,Female,19,Junior,60,4,4,black,2,yes,no,65,150,no,3,7,I take the bus.,no,BFA dance,7,21,82,5,no,200,68
+199,Female,19,Sophomore,85,8,9,brown,10,no,no,35,18,no,2,9,I bike.,yes,Undeclared,5,20,80,1,no,240,30
+200,Female,22,Junior,90,5,8,brown,5,no,only socially,120,500,no,0,7,I take the bus.,no,Pre-Nursing,10,30,90,5,only socially,60,400
+201,Female,18,Freshman,80,7,5,blond,4,no,no,60,150,yes,1,10,I walk.,no,Nursing,5,20,80,3,no,30,200
+202,Female,19,Sophomore,80,7,5,blond,1,yes,no,10,100,no,7,10,I walk.,no,Exercise Science,8,20,80,1,no,5,200
+203,Female,19,Sophomore,60,7,10,brown,10,no,no,10,350,no,3,7,I walk.,no,Pre-Pharmacy,15,40,60,10,no,20,500
+204,Female,21,Sophomore,88,7,8,black,1,no,no,20,13,no,1,5,I walk.,no,Nutrition,10,20,70,1,no,40,20
+205,Female,18,Freshman,55,7,8,brown,3,no,no,15,20,yes,1,10,I bike.,yes,Nutrition,24,32,48,1,no,20,50
+206,Female,18,Freshman,70,7,10,brown,2,no,no,120,65,yes,1,6,I walk.,no,Pre-Nursing,10,12,70,0,no,130,40
+207,Female,19,Freshman,87,6,10,brown,1,no,no,120,1000,yes,1,8,I walk.,no,Undeclared,15,12,83,1,no,60,300
+208,Female,19,Freshman,99,8,7,red,5,no,no,180,100,yes,1,9,I walk.,no,Nursing,8,12,90,5,no,5,60
+209,Female,18,Freshman,95,9.5,9,black,5,no,no,30,150,yes,1,8,I walk.,no,Undeclared,20,25,95,2,no,5,40
+210,Female,18,Freshman,80,7,5,brown,8,no,no,1,50,yes,1,9,I walk.,no,Government,2,20,70,4,no,30,30
+211,Female,18,Freshman,90,7,8,brown,1,no,no,100,25,yes,1,10,I walk.,yes,Undeclared,12,15,90,1,no,180,25
+212,Female,19,Freshman,80,8,10,brown,2,no,no,60,75,yes,1,8,I walk.,no,Pre-Nursing,12,30,80,2,no,30,30
+213,Male,19,Sophomore,75,8,8,brown,1,no,no,40,2,no,1,8,I walk.,no,Radio-Television-Film,4,20,90,2,no,60,2
+214,Female,18,Freshman,20,6,8,brown,1,no,no,30,5,yes,1,8,I walk.,no,Nutrition,2,8,30,1,no,5,10
